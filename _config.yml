@@ -21,6 +21,15 @@ author:
 # Custom vars
 version:          2.1.0
 # gems: [jekyll-paginate]
+gems:
+  - jekyll-seo-tag
 
 #github:
 #  repo:           https://github.com/poole/hyde
+
+social:
+  name: Vittra folkmusik
+  links:
+    - https://www.facebook.com/Vittra-543481875853831/
+    - https://soundcloud.com/vittra-3
+    - https://www.youtube.com/channel/UCRLXiWxslt-oNdVMGvOWzRw
