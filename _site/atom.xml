@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Vittra folkmusik</title>
- <link href="http://vittrafolkmusik.github.io/atom.xml" rel="self"/>
- <link href="http://vittrafolkmusik.github.io/"/>
- <updated>2017-04-02T03:34:12+02:00</updated>
- <id>http://vittrafolkmusik.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-04-02T03:53:03+02:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Jonas Björkman</name>
    <email></email>
