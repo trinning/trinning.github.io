@@ -1,3 +1,3 @@
 # Vittra website
 
-Modified version of the [Hyde](http://getpoole.com) theme
+Modified version of the [Hyde](https://getpoole.com) theme
