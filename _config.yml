@@ -9,7 +9,8 @@ permalink:        pretty
 title:            Vittra folkmusik
 tagline:          'Vittror från tre landskap'
 description:      'Folkmusik fiol kontrabas och sång'
-url:              https://vittrafolkmusik.github.io
+url:              https://vittra.nu
+enforce_ssl:      vittra.nu
 baseurl:          //vittra.nu
 
 author:
