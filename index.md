@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vittra
+published: true
 ---
 <div>
   <h1 class="page-title">{{ page.title }}</h1>
@@ -16,6 +17,6 @@ När vi för fjärde året i rad åker ut på sommarturné så är det som som v
 Vårt konsertprogram är inte fullbokat än, och är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)
 * *13 juli*, **Höganäs**
 * *20 juli*, **Morups kyrka**
-* *21 juli*, **Falkenberg**
+* *21 juli*, **Abilds kyrka**
 * *10 augusti*, **Grevie kyrka**
 * *13 augusti*, **Trolle-Ljungby**
