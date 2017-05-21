@@ -19,6 +19,7 @@ Vårt konsertprogram är inte fullbokat än, och är du intresserad av att vi ko
 * *20 juli*, **Morups kyrka kl. 19.00**
 * *21 juli*, **Abilds kyrka kl. 18.00**
 * *27 juli*, **Ljuders kyrka kl. 19.00**
+* *5 augusti*, **Filialen i Skår**
 * *6  augusti*, **Luttra kyrka kl. 19.00** 
 * *10 augusti*, **Grevie kyrka kl. 19.00**
 * *13 augusti*, **Trolle-Ljungby kyrka kl. 19.00**
