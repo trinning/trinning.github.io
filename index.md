@@ -14,13 +14,13 @@ Vittra spelar och sjunger mestadels svensk folkmusik. Mycket hämtar vi från de
 ### O sommartid så skön å kär
 När vi för fjärde året i rad åker ut på sommarturné så är det som som vanligt ett nytt program där de som kommer och lyssnar får höra stämningsfull svensk folkmusik i form av folkliga koraler, lockrop, gungiga schottisar, innerliga polskor och sköna valser. Allt med en touch av sommar.
 
-Vårt konsertprogram är inte fullbokat än, och är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)
-* *13 juli*, **Himmelsfärdskyrkan Höganäs kl. 18.00** 
-* *20 juli*, **Morups kyrka kl. 19.00**
-* *21 juli*, **Abilds kyrka kl. 18.00**
-* *27 juli*, **Ljuders kyrka kl. 19.00**
-* *5 augusti*, **Filialen i Skår**
-* *6  augusti*, **Luttra kyrka kl. 19.00** 
-* *10 augusti*, **Grevie kyrka kl. 19.00**
-* *13 augusti*, **Trolle-Ljungby kyrka kl. 19.00**
-* *30 augusti*, **Önums kyrka kl. 19.00**
+Vårt konsertprogram 2017. Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)
+* *13 juli*, **Himmelsfärdskyrkan Höganäs kl. 18.00 (Skåne)** 
+* *20 juli*, **Morups kyrka kl. 19.00 (Halland)**
+* *21 juli*, **Abilds kyrka kl. 18.00 (Halland)**
+* *27 juli*, **Ljuders kyrka kl. 19.00 (Småland)**
+* *5 augusti*, **Filialen i Skår kl. ?? (Västergötland)**
+* *6  augusti*, **Luttra kyrka kl. 19.00 (Västergötland)** 
+* *10 augusti*, **Grevie kyrka kl. 19.00 (Skåne)**
+* *13 augusti*, **Trolle-Ljungby kyrka kl. 19.00 (Skåne)**
+* *30 augusti*, **Önums kyrka kl. 19.00 (Västergötland)**
