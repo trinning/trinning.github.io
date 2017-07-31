@@ -19,7 +19,7 @@ Vårt konsertprogram 2017. Är du intresserad av att vi kommer och spelar så [k
 * *20 juli*, **Morups kyrka kl. 19.00 (Halland)**
 * *21 juli*, **Abilds kyrka kl. 18.00 (Halland)**
 * *27 juli*, **Ljuders kyrka kl. 19.00 (Småland)**
-* *5 augusti*, **Filialen i Skår kl.18.00 (Västergötland)**
+* *5 augusti*, **Filialen i Skår kl.18.00 (Västergötland)** Från 17:00 säljer Filialen korv med bröd och fika. Inträde 50kr (barn gratis)
 * *6  augusti*, **Luttra kyrka kl. 19.00 (Västergötland)** 
 * *10 augusti*, **Grevie kyrka kl. 19.00 (Skåne)**
 * *13 augusti*, **Trolle-Ljungby kyrka kl. 19.00 (Skåne)**
