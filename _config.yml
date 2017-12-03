@@ -9,10 +9,10 @@ permalink:        pretty
 title:            Trinning
 tagline:          'Alla goda ting är Trinning'
 description:      'Folkmusik fiol kontrabas och sång'
-#url:              https://trinning.se
+url:              https://trinning.se
 url:              http://trinning.github.io
 #enforce_ssl:      trinning.se
-#baseurl:          //trinning.se
+baseurl:          //trinning.se
 
 author:
   name:           'Jonas Björkman'
