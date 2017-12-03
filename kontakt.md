@@ -30,5 +30,5 @@ För att kontakta oss, skicka oss ett mail så hör vi av oss snarast möjligt!
 
 <script>
     var contactform =  document.getElementById('formaction');
-    contactform.setAttribute('action', '//formspree.io/' + 'trinningfolk' + '@' + 'gmail' + '.' + 'com');
+    contactform.setAttribute('action', '//formspree.io/' + 'trinning' + '@' + 'trinning' + '.' + 'se');
 </script>
