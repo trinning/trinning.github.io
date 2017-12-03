@@ -24,7 +24,7 @@ För att kontakta oss, skicka oss ett mail så hör vi av oss snarast möjligt!
     <input type="submit" value="Send">
   </div>
     <input type="text" name="_gotcha" style="display:none" />
-    <input type="hidden" name="_next" value="/l"/>
+    <input type="hidden" name="_next" value="/"/>
 </fieldset>
 </form>
 
