@@ -2,10 +2,11 @@
 layout: page
 title: Om Trinning
 permalink: /om/
+published: true
 ---
 Trinning består av tre folkmusiker med rötterna vid Mössebergs fot i Västergötland. Vi har spelat tillsammans till och från i ca 20 år och aldrig släppt vår passion för att dela med oss av vår musik. 
 
-Vi spelar på fest, bröllop, musikgudstjänster, begravning, eller andra arragemang. Vi har också möjlighet att hålla i kurs & workshop, med eller utan en kombination av en konsert.
+Vi spelar på fest, bröllop, musikgudstjänster, begravning, eller andra arragemang. Vi har också möjlighet att hålla i kurs & workshop, med eller utan kombination av en konsert.
 
 ### Trinning består av:
 <table>
@@ -28,7 +29,7 @@ Vi spelar på fest, bröllop, musikgudstjänster, begravning, eller andra arrage
       <td markdown="span">![Karin Sjöberg](/assets/karin_100px.jpg)</td>
     </tr>
     <tr>
-      <td>Fiol och sång. Riksspelman med examen från Malmö musikhögskola</td>
+      <td>Fiol, sång och gitarr. Riksspelman med examen från Malmö musikhögskola</td>
       <td>Fiol, kontrabas och sång. Riksspelman med musikstudier i Malung</td>
       <td>Fiol och sång. Zorns spelmansmärke i brons</td>
     </tr>
