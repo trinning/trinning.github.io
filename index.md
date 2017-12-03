@@ -10,7 +10,7 @@ published: true
 
 Trinning spelar och sjunger mestadels svensk folkmusik. Mycket hämtar vi från den västgötska folkmusiktraditionen, en del är egenskrivet material, men det kan också slinka in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från den svenska visskatten. Allt är arrangerat av oss själva och framförs trestämmigt, med omväxlande instrumentala, vokala och blandade arrangemang
 
-# Konserter sommaren 2017
+# Konserter sommaren 2017 (under namnet Vittra)
 ### O sommartid så skön å kär
 När vi för fjärde året i rad åker ut på sommarturné så är det som som vanligt ett nytt program där de som kommer och lyssnar får höra stämningsfull svensk folkmusik i form av folkliga koraler, lockrop, gungiga schottisar, innerliga polskor och sköna valser. Allt med en touch av sommar.
 
