@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Om Vittra
+title: Om Trinning
 permalink: /om/
 ---
-Vittra består av tre folkmusiker med rötterna vid Mössebergs fot i Västergötland. Vi har spelat tillsammans till och från i ca 20 år och aldrig släppt vår passion för att dela med oss av vår musik. 
+Trinning består av tre folkmusiker med rötterna vid Mössebergs fot i Västergötland. Vi har spelat tillsammans till och från i ca 20 år och aldrig släppt vår passion för att dela med oss av vår musik. 
 
 Vi spelar på fest, bröllop, musikgudstjänster, begravning, eller andra arragemang. Vi har också möjlighet att hålla i kurs & workshop, med eller utan en kombination av en konsert.
 
-### Vittra består av:
+### Trinning består av:
 <table>
 <colgroup>
 <col width="33%" />

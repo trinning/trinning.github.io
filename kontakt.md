@@ -5,7 +5,7 @@ permalink: /kontakt/
 published: true
 ---
 
-Vi finns också på [Facebook](https://www.facebook.com/Vittra-543481875853831/) där vi ibland släpper nytt material eller skriver nyheter.
+Vi finns också på [Facebook](https://www.facebook.com/trinningfolk/) där vi ibland släpper nytt material eller skriver nyheter.
 
 För att kontakta oss, skicka oss ett mail så hör vi av oss snarast möjligt!
 
@@ -30,5 +30,5 @@ För att kontakta oss, skicka oss ett mail så hör vi av oss snarast möjligt!
 
 <script>
     var contactform =  document.getElementById('formaction');
-    contactform.setAttribute('action', '//formspree.io/' + 'vittrafolkmusik' + '@' + 'gmail' + '.' + 'com');
+    contactform.setAttribute('action', '//formspree.io/' + 'trinningfolk' + '@' + 'gmail' + '.' + 'com');
 </script>

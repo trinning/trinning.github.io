@@ -6,12 +6,12 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Vittra folkmusik
-tagline:          'Vittror från tre landskap'
+title:            Trinning folkmusik
+tagline:          'Alla goda ting är Trinning'
 description:      'Folkmusik fiol kontrabas och sång'
-url:              https://vittra.nu
-enforce_ssl:      vittra.nu
-baseurl:          //vittra.nu
+url:              https://trinning.se
+enforce_ssl:      trinning.se
+baseurl:          //trinning.se
 
 author:
   name:           'Jonas Björkman'
@@ -29,7 +29,7 @@ gems:
 #  repo:           https://github.com/poole/hyde
 
 social:
-  name: Vittra folkmusik
+  name: Trinning folkmusik
   links:
     - https://www.facebook.com/Vittra-543481875853831/
     - https://soundcloud.com/vittra-3

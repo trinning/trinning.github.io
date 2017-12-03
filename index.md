@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Vittra
+title: Trinning
 published: true
 ---
 <div>
   <h1 class="page-title">{{ page.title }}</h1>
 </div>
-![Vittra](/assets/vittra_profile.jpg)
+![Trinning](/assets/trinning_profile.jpg)
 
-Vittra spelar och sjunger mestadels svensk folkmusik. Mycket hämtar vi från den västgötska folkmusiktraditionen, en del är egenskrivet material, men det kan också slinka in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från den svenska visskatten. Allt är arrangerat av oss själva och framförs trestämmigt, med omväxlande instrumentala, vokala och blandade arrangemang
+Trinning spelar och sjunger mestadels svensk folkmusik. Mycket hämtar vi från den västgötska folkmusiktraditionen, en del är egenskrivet material, men det kan också slinka in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från den svenska visskatten. Allt är arrangerat av oss själva och framförs trestämmigt, med omväxlande instrumentala, vokala och blandade arrangemang
 
 # Konserter sommaren 2017
 ### O sommartid så skön å kär
