@@ -35,3 +35,7 @@ published: true
 * *16 augusti*, **Ugglums kyrka**
 * *22 november*, **Ryda kyrka**
 
+## Spelningar 2014 (under namnet Vittra)
+* *31 juli*, **Marka kyrka**
+* *9 augusti **Tofta Ödekyrkogård**
+* *7 september*, **Hällums kyrka** 
