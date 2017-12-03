@@ -2,8 +2,9 @@
 layout: page
 title: Tidigare spelningar
 permalink: /tidigare_spelningar/
+published: true
 ---
-## Spelningar 2017
+## Spelningar 2017 (under namnet Vittra)
 * *13 juli*, **Himmelsfärdskyrkan Höganäs kl. 18.00 (Skåne)** 
 * *20 juli*, **Morups kyrka kl. 19.00 (Halland)**
 * *21 juli*, **Abilds kyrka kl. 18.00 (Halland)**
@@ -13,3 +14,24 @@ permalink: /tidigare_spelningar/
 * *10 augusti*, **[Mellan-Grevie kyrka](https://www.svenskakyrkan.se/vellinge/mellangreviekyrka) kl. 19.00 (Skåne)**
 * *13 augusti*, **Trolle-Ljungby kyrka kl. 19.00 (Skåne)**
 * *30 augusti*, **Önums kyrka kl. 19.00 (Västergötland)**
+
+## Spelningar 2016 (under namnet Vittra)
+* *30 juni*, **Ljuders kyrka**
+* *2 juli*, **Valdshults kyrka**
+* *3 juli*, **Longs kyrka**
+* *14 juli*, **Sankt Olofs kyrka (Falköping)**
+* *17 juli*, **Brandstorps kyrka**
+* *31 juli*, **Järstorps kyrka**
+* *4 augusti*, **Fliseryds kyrka**
+* *6 augusti*, **Odensåkers kyrka**
+* *17 augusti*, **Byarums kyrka**
+
+## Spelningar 2015 (under namnet Vittra)
+* *10 juni*, **Åparken i Hestra**
+* *28 juni*, **Vartofta-Åsaka kyrka**
+* *15 juli*, **Näs kyrka, Trollenäs slott**
+* *1 augusti*, **Tävelsås kyrka**
+* *3-8 augusti*, **Kulturkontakten turné**
+* *16 augusti*, **Ugglums kyrka**
+* *22 november*, **Ryda kyrka**
+
