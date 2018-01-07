@@ -9,8 +9,11 @@ Fler smakprov på vår musik kommer finnas efterhand på [Soundcloud](https://so
 {% include soundcloudListPlayer.html id="416559200" %}
 
 ## Video
-Fler videos finns på vårt [YouTube konto](https://www.youtube.com/channel/UCRLXiWxslt-oNdVMGvOWzRw).
+Fler videos finns på vårt [YouTube konto](https://www.youtube.com/channel/UCs-2U_xDpceZgR8YJ8wmrMA).
 
-Gökpolska efter Lars i Dala  
-Live från konsert med Trinning (då: Vittra) i Fliseryds kyrka 2016.
-{% include youtubePlayer.html id="RbGuxW6mz7g" %}
+### Live från konsert med Trinning (då: Vittra) i Fliseryds kyrka 2016.
+Den blomstertid nu kommer. Folklig koralversion från Estlands svenskbygder efter Maria Stahl.
+{% include youtubePlayer.html id="3CTs4hgoEMI" %}
+
+Gåsa gåsa klinga i ett set tillsammans med engelskan Whiskey before breakfast.
+{% include youtubePlayer.html id="pM-koxgv2_I" %}
