@@ -4,9 +4,9 @@ title: Ljud och video
 permalink: /lyssna/
 ---
 ## Ljud
-Fler smakprov på vår musik finns på [Soundcloud](https://soundcloud.com/trinning)
+Fler smakprov på vår musik kommer finnas efterhand på [Soundcloud](https://soundcloud.com/trinning)
 
-{% include soundcloudPlayer.html id="374573300" %}
+{% include soundcloudPlayer.html id="380059421" %}
 
 ## Video
 Fler videos finns på vårt [YouTube konto](https://www.youtube.com/channel/UCRLXiWxslt-oNdVMGvOWzRw).
