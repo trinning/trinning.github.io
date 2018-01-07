@@ -6,7 +6,7 @@ permalink: /lyssna/
 ## Ljud
 Fler smakprov på vår musik kommer finnas efterhand på [Soundcloud](https://soundcloud.com/trinning)
 
-{% include soundcloudListPlayer.html id="380059421" %}
+{% include soundcloudListPlayer.html id="416559200" %}
 
 ## Video
 Fler videos finns på vårt [YouTube konto](https://www.youtube.com/channel/UCRLXiWxslt-oNdVMGvOWzRw).
