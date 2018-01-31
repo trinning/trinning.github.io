@@ -30,4 +30,7 @@
 
   <!-- canonical -->
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
