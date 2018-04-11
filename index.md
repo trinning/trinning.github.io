@@ -8,7 +8,7 @@ published: true
 </div>
 ![Trinning](/assets/trinning_profile.jpg)
 
-Trinning spelar och sjunger mestadels svensk folkmusik. Mycket hämtar vi från den västgötska folkmusiktraditionen, en del är egenskrivet material, men det kan också slinka in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från den svenska visskatten. Allt är arrangerat av oss själva och framförs trestämmigt, med omväxlande instrumentala, vokala och blandade arrangemang
+Trinning spelar och sjunger svensk folkmusik. Mycket hämtar vi från den västgötska folkmusiktraditionen, en del är egenskrivet material, men det kan också slinka in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från den svenska visskatten. Allt är arrangerat av oss själva och framförs trestämmigt, med omväxlande instrumentala, vokala och blandade arrangemang
 
 # Sommarmusik & spelningar 2018
 För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar får höra stämningsfull svensk folkmusik i form av folkliga koraler, lockrop, gungiga schottisar, innerliga polskor och sköna valser. Allt med en touch av sommar. I år har vårt sommarprogram fått många nya låtar och arrangemang. Den 3 juni kommer vi också ha en alldeles speciell spelning. Vi släpper vår första skiva, STEG. Så varmt välkomna till Alphems Arboretum den 3 juni. Mer info kommer inom kort.  
