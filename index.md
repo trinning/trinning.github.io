@@ -16,9 +16,11 @@ För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar f
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)
 
 * *3 juni*, **Alphems arboretum kl. 15.00 skivsläpp för Trinnings första skiva, mer info inom kort**
+* *17 juni*, **Vistorps kyrka kl. 19.00 (Västergötland)**
 * *1 juli*, **Öra kyrka  kl. 19.00 (Västergötland)** 
 * *10 juli*, **Havstenssundskapell kl. 19.00 (Bohuslän)**
-* *1 augusti*, **Allsång i Prästaparken,(Skåne)**
+* *1 augusti*, **Allsång i Prästaparken (Skåne)**
+* *5 augusti*, **Harestads kyrka kl.17.00 (Bohuslän)**
 * *7 augusti*, **Hanhals kyrka kl. 19.00 (Halland)**
 * *9 augusti*, **Fliseryds kyrka (Småland)**
 * *10 augusti*, **Dädesjö gamla kyrka kl. 18.00 (Småland)**
