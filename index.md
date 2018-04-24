@@ -19,6 +19,7 @@ För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar f
 * *17 juni*, **Vistorps kyrka kl. 19.00 (Västergötland)**
 * *1 juli*, **Öra kyrka  kl. 19.00 (Västergötland)** 
 * *10 juli*, **Havstenssundskapell kl. 19.00 (Bohuslän)**
+* *28 juli*, **Lunchmusik i Mariakyrkan Båstad kl 12.00 (Skåne)**
 * *1 augusti*, **Allsång i Prästaparken (Skåne)**
 * *5 augusti*, **Harestads kyrka kl.17.00 (Bohuslän)**
 * *7 augusti*, **Hanhals kyrka kl. 19.00 (Halland)**
