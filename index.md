@@ -31,7 +31,8 @@ För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar f
 * *1 juli*, **Öra kyrka  kl. 19.00 (Västergötland)**    
  [Vägbeskrivning Öra kyrka](https://goo.gl/maps/uxJjTh9PX3p)
 * *10 juli*, **Havstenssundskapell kl. 19.00 (Bohuslän)**
-* *28 juli*, **Lunchmusik i Mariakyrkan Båstad kl. 12.00 (Skåne)**
+* *28 juli*, **Lunchmusik i Mariakyrkan Båstad kl. 12.00 (Skåne)**  
+[Vägbeskrivning Mariakyrkan Båstad](https://goo.gl/maps/nohw3eSH6z12)
 * *1 augusti*, **Allsång i Prästaparken kl. 19.00 (Skåne)**
 * *5 augusti*, **Harestads kyrka kl. 17.00 (Bohuslän)**
 * *7 augusti*, **Hanhals kyrka kl. 19.00 (Halland)**
