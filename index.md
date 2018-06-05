@@ -35,7 +35,8 @@ För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar f
 [Vägbeskrivning Mariakyrkan Båstad](https://goo.gl/maps/nohw3eSH6z12)
 * *1 augusti*, **Allsång i Prästaparken kl. 19.00 (Skåne)**
 * *5 augusti*, **Harestads kyrka kl. 17.00 (Bohuslän)**
-* *7 augusti*, **Hanhals kyrka kl. 19.00 (Halland)**
+* *7 augusti*, **Hanhals kyrka kl. 19.00 (Halland)**  
+[Vägbeskrivning Hanhals kyrka](https://goo.gl/maps/kWzNPvf9TzN2)
 * *9 augusti*, **Fliseryds kyrka kl. 19.00 (Småland)**  
 [Vägbeskrivning Fliseryds kyrka](https://goo.gl/maps/DkrE4D7zyZG2)
 * *10 augusti*, **Dädesjö gamla kyrka kl. 18.00 (Småland)**  
