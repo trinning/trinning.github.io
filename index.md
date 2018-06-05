@@ -35,6 +35,6 @@ För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar f
 * *1 augusti*, **Allsång i Prästaparken kl. 19.00 (Skåne)**
 * *5 augusti*, **Harestads kyrka kl. 17.00 (Bohuslän)**
 * *7 augusti*, **Hanhals kyrka kl. 19.00 (Halland)**
-* *9 augusti*, **Fliseryds kyrka (Småland)**
+* *9 augusti*, **Fliseryds kyrka kl. 19.00 (Småland)**
 * *10 augusti*, **Dädesjö gamla kyrka kl. 18.00 (Småland)**
 * *26 augusti*, **Liareds kyrka kl. 18.00 (Västergötland)**
