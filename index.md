@@ -38,5 +38,6 @@ För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar f
 * *7 augusti*, **Hanhals kyrka kl. 19.00 (Halland)**
 * *9 augusti*, **Fliseryds kyrka kl. 19.00 (Småland)**  
 [Vägbeskrivning Fliseryds kyrka](https://goo.gl/maps/DkrE4D7zyZG2)
-* *10 augusti*, **Dädesjö gamla kyrka kl. 18.00 (Småland)**
+* *10 augusti*, **Dädesjö gamla kyrka kl. 18.00 (Småland)**  
+[Vägbeskrivning Dädesjö gamla kyrka](https://goo.gl/maps/bskmPgAAe4s)
 * *26 augusti*, **Liareds kyrka kl. 18.00 (Västergötland)**
