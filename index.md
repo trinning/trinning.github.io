@@ -43,4 +43,5 @@ För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar f
 [Vägbeskrivning Fliseryds kyrka](https://goo.gl/maps/DkrE4D7zyZG2)
 * *10 augusti*, **Dädesjö gamla kyrka kl. 18.00 (Småland)**  
 [Vägbeskrivning Dädesjö gamla kyrka](https://goo.gl/maps/bskmPgAAe4s)
-* *26 augusti*, **Liareds kyrka kl. 18.00 (Västergötland)**
+* *26 augusti*, **Liareds kyrka kl. 18.00 (Västergötland)**  
+[Vägbeskrivning Liareds kyrka](https://goo.gl/maps/r5tBZLRzMy62)
