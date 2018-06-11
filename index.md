@@ -34,7 +34,8 @@ För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar f
 [Vägbeskrivning Havsstenssund](https://goo.gl/maps/WQaefaBw16u)
 * *28 juli*, **Lunchmusik i Mariakyrkan Båstad kl. 12.00 (Skåne)**  
 [Vägbeskrivning Mariakyrkan Båstad](https://goo.gl/maps/nohw3eSH6z12)
-* *1 augusti*, **Allsång i Prästaparken kl. 19.00 (Skåne)**
+* *1 augusti*, **Allsång i Prästaparken kl. 19.00 (Skåne)**  
+[Vägbeskrivning Prästaparken Perstorp](https://goo.gl/maps/DU5vch81Tku)
 * *5 augusti*, **Harestads kyrka kl. 17.00 (Bohuslän)**  
 [Vägbeskrivning Harestads kyrka](https://goo.gl/maps/fzV7Vfvwb362)
 * *7 augusti*, **Hanhals kyrka kl. 19.00 (Halland)**  
