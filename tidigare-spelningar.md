@@ -4,6 +4,17 @@ title: Tidigare spelningar
 permalink: /tidigare_spelningar/
 published: true
 ---
+## Skivsläpp 3 juni 2018
+Trinning släpper sin första skiva, STEG!
+Skivan är inspelad i kaffestugan på Alphems Arboretum och det känns fint att få komma tillbaka och ära den med skivsläppskonsert.
+
+Kom och lyssna till konsert, fika, mys i den fantastiska parken och fira med oss. Naturligtvis kan man även köpa en skiva. Eller två. 
+
+För er som aldrig varit på Alphems Arboretum tidigare så är den en fantastisk park med stenläggningar och över 200 olika sorters träd och buskar. Här finns även Snövits hus. Ja, du läste rätt. Modellen för huset i Disneys film Snövit är hämtat från Alphems Arboretum i Floby.
+
+[http://www.alphem.se/](http://www.alphem.se/ "Alphems arboretum")
+
+
 ## Spelningar 2017 (under namnet Vittra)
 * *13 juli*, **Himmelsfärdskyrkan Höganäs kl. 18.00 (Skåne)** 
 * *20 juli*, **Morups kyrka kl. 19.00 (Halland)**
@@ -38,4 +49,4 @@ published: true
 ## Spelningar 2014 (under namnet Vittra)
 * *31 juli*, **Marka kyrka**
 * *9 augusti*, **Tofta Ödekyrkogård**
-* *7 september*, **Hällums kyrka**	
+* *7 september*, **Hällums kyrka**
