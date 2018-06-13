@@ -22,11 +22,11 @@ För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar f
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)
 
 * *3 juni*, **Skivsläppskonsert för Trinnings första skiva på Alphems arboretum kl. 15.00 (Västergötland)**  
-[Vägbeskrivning till Alphems arboretum](https://goo.gl/maps/hRVQngGrZtL2)
+[Vägbeskrivning till Alphems arboretum](https://goo.gl/maps/WxB4THqxpHw)
 * *17 juni*, **Vistorps kyrka kl. 19.00 (Västergötland)**  
- [Vägbeskrivning Vistorps kyrka](https://goo.gl/maps/zxbh52ZWqoG2)
+ [Vägbeskrivning Vistorps kyrka](https://goo.gl/maps/ncxYtkxULVz)
 * *1 juli*, **Öra kyrka  kl. 19.00 (Västergötland)**    
- [Vägbeskrivning Öra kyrka](https://goo.gl/maps/uxJjTh9PX3p)
+ [Vägbeskrivning Öra kyrka](https://goo.gl/maps/D2NtnUcoJSP2)
 * *10 juli*, **Havstenssundskapell kl. 19.00 (Bohuslän)**  
 [Vägbeskrivning Havsstenssund](https://goo.gl/maps/WQaefaBw16u)
 * *28 juli*, **Lunchmusik i Mariakyrkan Båstad kl. 12.00 (Skåne)**  
