@@ -8,17 +8,13 @@ published: true
 </div>
 ![Trinning](/assets/trinning_profile.jpg)
 
-Trinning spelar och sjunger svensk folkmusik. Mycket hämtar vi från den västgötska folkmusiktraditionen, en del är egenskrivet material, men det kan också slinka in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från den svenska visskatten. Allt är arrangerat av oss själva och framförs trestämmigt, med omväxlande instrumentala, vokala och blandade arrangemang
+Trinning spelar och sjunger svensk folkmusik. Mycket hämtar vi från den västgötska folkmusiktraditionen, en del är egenskrivet material, men det kan också slinka 
+in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från den svenska visskatten. Allt är arrangerat av oss själva och framförs trestämmigt, med omväxlande instrumentala, vokala och blandade arrangemang
 
-# Skivsläpp 3 juni 2018
-Trinning släpper sin första skiva, STEG!
-Skivan är inspelad i kaffestugan på Alphems Arboretum och det känns fint att få komma tillbaka och ära den med skivsläppskonsert.
+# Trinnigs skiva
+Trinning släppte sin första skiva, STEG den 3 juni 2018. Den är inspelad i kaffestugan på Alphems arboretum i Floby i Västergötland och innehåller fjorton somriga spår. Traditionella låtar blandas med egna kompositioner, allt arrangerat av Trinning. Vill du köpa skivan till det förmånliga priset 120 kr kontakta oss här via hemsidan eller via vår [facebook](https://www.facebook.com/trinningfolk/).
 
-Kom och lyssna till konsert, fika, mys i den fantastiska parken och fira med oss. Naturligtvis kan man även köpa en skiva. Eller två. 
-
-För er som aldrig varit på Alphems Arboretum tidigare så är den en fantastisk park med stenläggningar och över 200 olika sorters träd och buskar. Här finns även Snövits hus. Ja, du läste rätt. Modellen för huset i Disneys film Snövit är hämtat från Alphems Arboretum i Floby.
-
-[http://www.alphem.se/](http://www.alphem.se/ "Alphems arboretum")
+![Trinnings skiva STEG]({{site.baseurl}}//assets/CD-steg.jpg)
 
 # Sommarmusik & spelningar 2018
 För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar får höra stämningsfull svensk folkmusik i form av folkliga koraler, lockrop, gungiga schottisar, innerliga polskor och sköna valser. Allt med en touch av sommar. I år har vårt sommarprogram fått många nya låtar och arrangemang. Den 3 juni kommer vi också ha en alldeles speciell spelning. Vi släpper vår första skiva, STEG. Så varmt välkomna till Alphems Arboretum den 3 juni.
