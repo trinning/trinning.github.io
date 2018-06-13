@@ -30,16 +30,16 @@ För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar f
 * *10 juli*, **Havstenssundskapell kl. 19.00 (Bohuslän)**  
 [Vägbeskrivning Havsstenssund](https://goo.gl/maps/WQaefaBw16u)
 * *28 juli*, **Lunchmusik i Mariakyrkan Båstad kl. 12.00 (Skåne)**  
-[Vägbeskrivning Mariakyrkan Båstad](https://goo.gl/maps/nohw3eSH6z12)
+[Vägbeskrivning Mariakyrkan Båstad](https://goo.gl/maps/R5aAsHeBQB82)
 * *1 augusti*, **Allsång i Prästaparken kl. 19.00 (Skåne)**  
-[Vägbeskrivning Prästaparken Perstorp](https://goo.gl/maps/DU5vch81Tku)
+[Vägbeskrivning Prästaparken Perstorp](https://goo.gl/maps/n2Er6Ezm55u)
 * *5 augusti*, **Harestads kyrka kl. 17.00 (Bohuslän)**  
-[Vägbeskrivning Harestads kyrka](https://goo.gl/maps/fzV7Vfvwb362)
+[Vägbeskrivning Harestads kyrka](https://goo.gl/maps/DBCzyj9avEz)
 * *7 augusti*, **Hanhals kyrka kl. 19.00 (Halland)**  
-[Vägbeskrivning Hanhals kyrka](https://goo.gl/maps/kWzNPvf9TzN2)
+[Vägbeskrivning Hanhals kyrka](https://goo.gl/maps/Y4W6TVeVbhH2)
 * *9 augusti*, **Fliseryds kyrka kl. 19.00 (Småland)**  
-[Vägbeskrivning Fliseryds kyrka](https://goo.gl/maps/DkrE4D7zyZG2)
+[Vägbeskrivning Fliseryds kyrka](https://goo.gl/maps/syjy4NzZV1H2)
 * *10 augusti*, **Dädesjö gamla kyrka kl. 18.00 (Småland)**  
-[Vägbeskrivning Dädesjö gamla kyrka](https://goo.gl/maps/bskmPgAAe4s)
+[Vägbeskrivning Dädesjö gamla kyrka](https://goo.gl/maps/34hLhFbwVJv)
 * *26 augusti*, **Liareds kyrka kl. 18.00 (Västergötland)**  
-[Vägbeskrivning Liareds kyrka](https://goo.gl/maps/r5tBZLRzMy62)
+[Vägbeskrivning Liareds kyrka](https://goo.gl/maps/JYzGNMCpfRN2)
