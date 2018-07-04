@@ -43,3 +43,4 @@ För femte året i rad åker vi ut på sommarturné. Ni som kommer och lyssnar f
 [Vägbeskrivning Dädesjö gamla kyrka](https://goo.gl/maps/34hLhFbwVJv)
 * *26 augusti*, **Liareds kyrka kl. 18.00 (Västergötland)**  
 [Vägbeskrivning Liareds kyrka](https://goo.gl/maps/JYzGNMCpfRN2)
+* *21 oktober*, **Ryda kyrka kl. 18.00 (Västergötland)**
