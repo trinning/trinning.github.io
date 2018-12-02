@@ -25,13 +25,13 @@ Vi spelar på fest, bröllop, musikgudstjänster, begravning, eller andra arrang
   <tbody>
     <tr>
       <td markdown="span">![Åsa Björkman](/assets/osa_200px.jpg)</td>
-      <td markdown="span">![Anna Dahlgren](/assets/anna_200px.jpg)</td>
       <td markdown="span">![Karin Sjöberg](/assets/karin_200px.jpg)</td>
+      <td markdown="span">![Anna Dahlgren](/assets/anna_200px.jpg)</td>
     </tr>
     <tr>
       <td>Fiol, sång och gitarr. Riksspelman med examen från Malmö musikhögskola</td>
-      <td>Fiol, kontrabas och sång. Riksspelman med musikstudier i Malung</td>
       <td>Fiol och sång. Zorns spelmansmärke i brons</td>
+      <td>Fiol, kontrabas och sång. Riksspelman med musikstudier i Malung</td>
     </tr>
   </tbody>
 </table>
