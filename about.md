@@ -24,9 +24,9 @@ Vi spelar på fest, bröllop, musikgudstjänster, begravning, eller andra arrang
   </thead>
   <tbody>
     <tr>
-      <td markdown="span">![Åsa Björkman](/assets/osa_100px.jpg)</td>
-      <td markdown="span">![Anna Dahlgren](/assets/anna_100px.jpg)</td>
-      <td markdown="span">![Karin Sjöberg](/assets/karin_100px.jpg)</td>
+      <td markdown="span">![Åsa Björkman](/assets/osa_200px.jpg)</td>
+      <td markdown="span">![Anna Dahlgren](/assets/anna_200px.jpg)</td>
+      <td markdown="span">![Karin Sjöberg](/assets/karin_200px.jpg)</td>
     </tr>
     <tr>
       <td>Fiol, sång och gitarr. Riksspelman med examen från Malmö musikhögskola</td>
