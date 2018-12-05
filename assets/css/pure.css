@@ -1,0 +1,12 @@
+.pure-g-r {}
+
+.a,
+.b,
+.c {
+    display: flex;
+}
+
+.bottom {
+	display:flex;
+    align-items: flex-end;
+}
