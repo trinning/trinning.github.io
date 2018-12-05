@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Vår skiva
 permalink: /skivor/
 published: true
