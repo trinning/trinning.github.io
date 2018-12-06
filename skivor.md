@@ -86,9 +86,9 @@ Skivan finns till försäljning för 120 kronor och vill du köpa ett (eller fle
 			  <!-- Customise the Thankyou Message People See when they submit the form: -->
 			  <div class="thankyou_message" style="display:none;">
 				<h3>Tack för din beställning!</h3>
-				<p><strong>Vi skickar en bekäftelse så snart vi kan.<br>
+				<p><em>Vi skickar en bekäftelse så snart vi kan.<br>
 					Skivan kommer på posten	tillsammans med faktura.<br>
-					Är något oklart kommer vi att kontakta dig på angedd mailaddress.</strong></p>
+					Är något oklart kommer vi att kontakta dig på angedd mailaddress.</em></p>
 			  </div>
 			</form>
 		  </div>
