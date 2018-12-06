@@ -47,47 +47,49 @@ Skivan finns till försäljning för 120 kronor och vill du köpa ett (eller fle
 			<form class="gform pure-form pure-form-aligned" method="POST" data-email="example@email.net"
 				  action="https://script.google.com/macros/s/AKfycbxdvyw5YFs5V2Lx7WcymJ_JMvC-bEBhNbyA4I3HUVfEXGrlG3Tt/exec">
 			  <!-- change the form action to your script url -->
-			  <fieldset class="pure-group">
-				<label for="text">Namn:</label>
-				<input type="text" class="pure-input-1" id="first_name" name="first_name" placeholder="Förnamn" autocomplete="off">
-				<input type="text" class="pure-input-1" id="last_name" name="last_name" placeholder="Efternamn" autocomplete="off">
-			  </fieldset>
+			  <div class="form-elements">
+				<fieldset class="pure-group">
+				  <label for="text">Namn:</label>
+				  <input type="text" class="pure-input-1" id="first_name" name="first_name" placeholder="Förnamn" autocomplete="off">
+				  <input type="text" class="pure-input-1" id="last_name" name="last_name" placeholder="Efternamn" autocomplete="off">
+				</fieldset>
 
-			  <fieldset class="pure-group">
-				<label for="text">Address: </label>
-				<input type="text" class="pure-input-1" id="address" name="address" placeholder="Gata" autocomplete="off">
-				<input type="text" class="pure-input-1" id="postnummer" name="postnummer" placeholder="Postnummer" autocomplete="off">
-				<input type="text" class="pure-input-1" id="postort" name="postort" placeholder="Postort" autocomplete="off">
-			  </fieldset>
+				<fieldset class="pure-group">
+				  <label for="text">Address: </label>
+				  <input type="text" class="pure-input-1" id="address" name="address" placeholder="Gata" autocomplete="off">
+				  <input type="text" class="pure-input-1" id="postnummer" name="postnummer" placeholder="Postnummer" autocomplete="off">
+				  <input type="text" class="pure-input-1" id="postort" name="postort" placeholder="Postort" autocomplete="off">
+				</fieldset>
 
-			  <fieldset class="pure-group">
-				<label for="number">Antal skivor:</label>
-				<input type="number" class="pure-input-1" id="antal_skivor"  name="antal_skivor" min="1" value="1">
-			  </fieldset>
+				<fieldset class="pure-group">
+				  <label for="number">Antal skivor:</label>
+				  <input type="number" class="pure-input-1" id="antal_skivor"  name="antal_skivor" min="1" value="1">
+				</fieldset>
 
-			  <fieldset class="pure-group">
-				<label for="email">Email Address:</label>
-				<input type="email" class="pure-input-1" id="email" name="email" value="" placeholder="Email" autocomplete="off" required>
-				<span class="email-invalid" style="display:none">
-				  Must be a valid email address</span>
-			  </fieldset>
+				<fieldset class="pure-group">
+				  <label for="email">Email Address:</label>
+				  <input type="email" class="pure-input-1" id="email" name="email" value="" placeholder="Email" autocomplete="off" required>
+				  <span class="email-invalid" style="display:none">
+					Must be a valid email address</span>
+				</fieldset>
 
-			  <fieldset class="pure-group">
-				<textarea class="pure-input-1" id="message" name="message" placeholder="Eventuella kommentarer"></textarea>
-			  </fieldset>
+				<fieldset class="pure-group">
+				  <textarea class="pure-input-1" id="message" name="message" placeholder="Eventuella kommentarer"></textarea>
+				</fieldset>
 
-			  <fieldset class="pure-group">
-				<button type="submit" class="pure-button pure-input-1 pure-button-primary">Skicka beställning</button>
-			  </fieldset>
+				<fieldset class="pure-group">
+				  <button type="submit" class="pure-button pure-input-1 pure-button-primary">Skicka beställning</button>
+				</fieldset>
+
+			  </div>
 
 			  <!-- Customise the Thankyou Message People See when they submit the form: -->
 			  <div class="thankyou_message" style="display:none;">
 				<h3>Tack för din beställning!</h3>
-				<h4>Vi skickar en bekäftelse så snart vi kan.<br>
-				  Skivan kommer på posten	tillsammans med faktura.<br>
-				  Är något oklart kommer vi att kontakta dig på angedd mailaddress.</h4>
+				<p><strong>Vi skickar en bekäftelse så snart vi kan.<br>
+					Skivan kommer på posten	tillsammans med faktura.<br>
+					Är något oklart kommer vi att kontakta dig på angedd mailaddress.</strong></p>
 			  </div>
-
 			</form>
 		  </div>
 		  <div class='pure-u-0 pure-u-lg-1-24'>
@@ -96,8 +98,6 @@ Skivan finns till försäljning för 120 kronor och vill du köpa ett (eller fle
 			<img src="/assets/trinning-steg-framsida_600x526.jpg" alt="Steg">
 		  </div>
 		</div>
-
-
 
 		<!-- Submit the Form to Google Using "AJAX" -->
 		<script data-cfasync="false" src="/assets/js/form-submission-handler.js">
