@@ -29,6 +29,12 @@ För att kontakta oss, fyll i ditt namn, email, och ditt meddelande så hör vi 
 	<form class="gform pure-form pure-form-aligned" method="POST" data-email="example@email.net"
 		  action="https://script.google.com/macros/s/AKfycbze3FOPEbjqNTEIsx8T4GiEZ2YpF6ygBbmeM_qo/exec">
 	  <!-- change the form action to your script url -->
+        <!--input id must be honeypot or else it wont work-->
+  <label class="sr-only">Keep this field blank</label>
+  <input id="honeypot" type="text" name="honeypot" value="" />
+  <!--the rest of your form-->
+<div class="form-elements">
+
 	  <fieldset class="pure-group">
 		<label for="text">Namn:</label>
 		<input type="text" class="pure-input-1" id="name" name="name" placeholder="Namn" autocomplete="off">
@@ -45,11 +51,11 @@ För att kontakta oss, fyll i ditt namn, email, och ditt meddelande så hör vi 
 	  <fieldset class="pure-group">
 		<button type="submit" class="pure-button pure-input-1 pure-button-primary">Skicka meddelande</button>
 	  </fieldset>
-
+</div>
 	  <!-- Customise the Thankyou Message People See when they submit the form: -->
 	  <div class="thankyou_message" style="display:none;">
 		<h3>Tack för din meddelande!</h3>
-		<h4>Vi kommer att kontakta dig på angedd mailaddress så snart vi kan.</h4>
+		<p><em>Vi kommer att kontakta dig på angedd mailaddress så snart vi kan.</em></p>
 	  </div>
 	</form>
 
