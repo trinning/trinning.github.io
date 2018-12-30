@@ -20,9 +20,9 @@ Folk at Heart samlar under två dygn i Örebro hundratals musiker och band, loka
 Trinning kommer att åka dit och rocka västgötsk folkmusik på sång, fiol och kontrabas. Vi kommer bland annat att bjuda på historien om Lilla Greta och Lars å Mars. Vi kommer också spela svängiga låtar så det spritter i benen och låtar som man kan kramas till. Kanske blir det en snuskvisa också. 
 Vem vet...
 
-* *5 januari*, **I 117:Live at Heart, natten mellan fredag och lördag kl. 00.30** 
+* *5 januari*, **I 117: Live at Heart, natten mellan fredag och lördag kl. 00.30** 
  
-* *5 januari*, **I 135:Anders Damberg, lördagkväll kl.23.00**  
+* *5 januari*, **I 135: Anders Damberg, lördagkväll kl.23.00**  
 
 # Presenttips! Trinnings skiva
 Trinning släppte sin första skiva, STEG den 3 juni 2018. Den är inspelad i kaffestugan på Alphems arboretum i Floby i Västergötland och innehåller fjorton somriga spår. Traditionella låtar blandas med egna kompositioner, allt arrangerat av Trinning. Vill du köpa skivan till det förmånliga priset 120 kr [fyll i forumuläret här](/skivor) eller kontakta oss via vår [facebook](https://www.facebook.com/trinningfolk/). 
