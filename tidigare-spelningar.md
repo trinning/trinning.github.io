@@ -14,6 +14,29 @@ För er som aldrig varit på Alphems Arboretum tidigare så är den en fantastis
 
 [http://www.alphem.se/](http://www.alphem.se/ "Alphems arboretum")
 
+## Sommarmusik & spelningar 2018
+* *3 juni*, **Skivsläppskonsert för Trinnings första skiva på Alphems arboretum kl. 15.00 (Västergötland)**  
+[Vägbeskrivning till Alphems arboretum](https://goo.gl/maps/WxB4THqxpHw)
+* *17 juni*, **Vistorps kyrka kl. 19.00 (Västergötland)**  
+ [Vägbeskrivning Vistorps kyrka](https://goo.gl/maps/ncxYtkxULVz)
+* *1 juli*, **Öra kyrka  kl. 19.00 (Västergötland)**    
+ [Vägbeskrivning Öra kyrka](https://goo.gl/maps/D2NtnUcoJSP2)
+* *10 juli*, **Havstenssundskapell kl. 19.00 (Bohuslän)**  
+[Vägbeskrivning Havsstenssund](https://goo.gl/maps/WQaefaBw16u)
+* *28 juli*, **Lunchmusik i Mariakyrkan Båstad kl. 12.00 (Skåne)**  
+[Vägbeskrivning Mariakyrkan Båstad](https://goo.gl/maps/R5aAsHeBQB82)
+* *1 augusti*, **Allsång i Prästaparken kl. 19.00 (Skåne)**  
+[Vägbeskrivning Prästaparken Perstorp](https://goo.gl/maps/n2Er6Ezm55u)
+* *5 augusti*, **Harestads kyrka kl. 17.00 (Bohuslän)**  
+[Vägbeskrivning Harestads kyrka](https://goo.gl/maps/DBCzyj9avEz)
+* *7 augusti*, **Hanhals kyrka kl. 19.00 (Halland)**  
+[Vägbeskrivning Hanhals kyrka](https://goo.gl/maps/Y4W6TVeVbhH2)
+* *9 augusti*, **Fliseryds kyrka kl. 19.00 (Småland)**  
+[Vägbeskrivning Fliseryds kyrka](https://goo.gl/maps/syjy4NzZV1H2)
+* *10 augusti*, **Dädesjö gamla kyrka kl. 18.00 (Småland)**  
+[Vägbeskrivning Dädesjö gamla kyrka](https://goo.gl/maps/34hLhFbwVJv)
+* *26 augusti*, **Liareds kyrka kl. 18.00 (Västergötland)**  
+[Vägbeskrivning Liareds kyrka](https://goo.gl/maps/JYzGNMCpfRN2)
 
 ## Spelningar 2017 (under namnet Vittra)
 * *13 juli*, **Himmelsfärdskyrkan Höganäs kl. 18.00 (Skåne)** 
