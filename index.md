@@ -22,7 +22,7 @@ Vem vet...
 
 * *5 januari*, **I 117: Live at Heart, natten mellan fredag och lördag kl. 00.30** 
  
-* *5 januari*, **I 135: Anders Damberg, lördagkväll kl.23.00**  
+* *5 januari*, **I 135: Anders Damberg, lördagkväll kl. 23.00**  
 
 # Presenttips! Trinnings skiva
 Trinning släppte sin första skiva, STEG den 3 juni 2018. Den är inspelad i kaffestugan på Alphems arboretum i Floby i Västergötland och innehåller fjorton somriga spår. Traditionella låtar blandas med egna kompositioner, allt arrangerat av Trinning. Vill du köpa skivan till det förmånliga priset 120 kr [fyll i forumuläret här](/skivor) eller kontakta oss via vår [facebook](https://www.facebook.com/trinningfolk/). 
