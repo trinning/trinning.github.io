@@ -31,9 +31,9 @@ För att kontakta oss, fyll i ditt namn, email, och ditt meddelande så hör vi 
 	<form class="gform pure-form pure-form-aligned" method="POST" data-email="example@email.net"
 		  action="https://script.google.com/macros/s/AKfycbze3FOPEbjqNTEIsx8T4GiEZ2YpF6ygBbmeM_qo/exec">
 	  <!-- change the form action to your script url -->
-      <!--input id must be honeypot or else it wont work-->
+      <!--input id must be honungsgryta or else it wont work-->
 	  <label class="sr-only">Keep this field blank</label>
-	  <input id="honeypot" type="text" name="honeypot" value="" />
+	  <input id="honungsgryta" type="text" name="honungsgryta" value="" />
 	  <!--the rest of your form-->
 	  <div class="form-elements">
 

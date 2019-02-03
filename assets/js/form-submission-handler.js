@@ -4,8 +4,8 @@
     return re.test(email);
   }
 
-  function validateHuman(honeypot) {
-    if (honeypot) {  //if hidden form filled up
+  function validateHuman(honungsgryta) {
+    if (honungsgryta) {  //if hidden form filled up
       console.log("Robot Detected!");
       return true;
     } else {
@@ -18,7 +18,7 @@
     var elements = form.elements;
 
     var fields = Object.keys(elements).filter(function(k) {
-          return (elements[k].name !== "honeypot");
+          return (elements[k].name !== "honungsgryta");
     }).map(function(k) {
       if(elements[k].name !== undefined) {
         return elements[k].name;
@@ -65,7 +65,7 @@
     var data = getFormData(form);         // get the values submitted in the form
 
     /* OPTION: Remove this comment to enable SPAM prevention, see README.md */
-    if (validateHuman(data.honeypot)) {  //if form is filled, form will not be submitted
+    if (validateHuman(data.honungsgryta)) {  //if form is filled, form will not be submitted
       return false;
     }
 
