@@ -47,9 +47,9 @@ Skivan finns till försäljning för 120 kronor och vill du köpa ett (eller fle
 			<form class="gform pure-form pure-form-aligned" method="POST" data-email="example@email.net"
 				  action="https://script.google.com/macros/s/AKfycbxdvyw5YFs5V2Lx7WcymJ_JMvC-bEBhNbyA4I3HUVfEXGrlG3Tt/exec">
 			  <!-- change the form action to your script url -->
-			  <!--input id must be honeypot or else it wont work-->
+			  <!--input id must be honungsgryta or else it wont work-->
 			  <label class="sr-only">Keep this field blank</label>
-			  <input id="honeypot" type="text" name="honeypot" value="" />
+			  <input id="honungsgryta" type="text" name="honungsgryta" value="" />
 			  <!--the rest of your form-->
 
 			  <div class="form-elements">
