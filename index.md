@@ -24,8 +24,15 @@ Vem vet...
  
 * *5 januari*, **I 135: Anders Damberg, lördag kväll kl. 23.00**  
 
+* *12 maj*, **Longs kyrka, kl. 18.00**
+
+* *4 juli*, **Himmelsfärdskyrkan Höganäs, kl. 18.00** 
+
+* *13 juli*, **Ödeby kyrka, kl. 18.00**
+
+* *25 juli*, **Varlakyrkan, kl 19.00**
+
 # Presenttips! Trinnings skiva
 Trinning släppte sin första skiva, STEG den 3 juni 2018. Den är inspelad i kaffestugan på Alphems arboretum i Floby i Västergötland och innehåller fjorton somriga spår. Traditionella låtar blandas med egna kompositioner, allt arrangerat av Trinning. Vill du köpa skivan till det förmånliga priset 120 kr [fyll i forumuläret här](/skivor) eller kontakta oss via vår [facebook](https://www.facebook.com/trinningfolk/). 
 
 ![Trinnings skiva STEG]({{site.baseurl}}//assets/CD-steg.jpg)
-
