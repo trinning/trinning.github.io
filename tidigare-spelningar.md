@@ -4,6 +4,12 @@ title: Tidigare spelningar
 permalink: /tidigare_spelningar/
 published: true
 ---
+## Folk at Heart på Scandic Grand i Örebro
+Folk at Heart samlar under två dygn i Örebro hundratals musiker och band, lokalt föreningsliv och näringsliv till en stor spelfest. Syftet med Folk at Heart är att vara en konkret plats för musiker, dansare, artistbokare, musikstudios, skivbolag och musikjournalister att nätverka och marknadsföra sig själva. Inriktningen är ”Akustisk tvådygns showcase-festival för all slags musik med folkliga rötter”. Läs mer på [Folk at Heart](https://folkatheart.se/)
+
+Trinning kommer att åka dit och rocka västgötsk folkmusik på sång, fiol och kontrabas. Vi kommer bland annat att bjuda på historien om Lilla Greta och Lars å Mars. Vi kommer också spela svängiga låtar så det spritter i benen och låtar som man kan kramas till. Kanske blir det en snuskvisa också. 
+Vem vet...
+
 ## Skivsläpp 3 juni 2018
 Trinning släpper sin första skiva, STEG!
 Skivan är inspelad i kaffestugan på Alphems Arboretum och det känns fint att få komma tillbaka och ära den med skivsläppskonsert.
