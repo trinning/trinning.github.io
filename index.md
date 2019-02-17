@@ -26,6 +26,8 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *14 juli*, **Ässundets sommarcafé, kl.14.00 (Närke)**
 
+* *18 juli*, **Vetlanda kyrka, kl. 19.00 (Småland)**
+
 * *25 juli*, **Varlakyrkan, kl. 19.00 (Halland)**
 
 # Presenttips! Trinnings skiva
