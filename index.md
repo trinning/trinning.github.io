@@ -24,7 +24,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *13 juli*, **Ödeby kyrka, kl. 18.00 (Närke)**
 
-* *14 juli*, **Ässundets sommarcafé, kl.14.00 (Närke)**
+* *14 juli*, **Ässundets sommarcafé, kl. 14.00 (Närke)**
 
 * *18 juli*, **Vetlanda kyrka, kl. 19.00 (Småland)**
 
