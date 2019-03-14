@@ -32,6 +32,8 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *25 juli*, **Varlakyrkan, kl. 19.00 (Halland)**
 
+* *31 juli*, **Marka kyrka, kl. 19.00 (Västergötland)**
+
 * *3 augusti*, **Brandstorps kyrka, kl. 18.00 (Västergötland)**
 
 * *9 augusti*, **Viby kyrka, konsert under musikveckan, kl.19.00 (Närke)**
