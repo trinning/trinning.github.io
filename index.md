@@ -20,6 +20,8 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *12 maj*, **Longs kyrka, kl. 18.00 (Västergötland)**
 
+* *27 juni*, **Östra Grevie kyrka, kl 19.00 (Skåne)**
+
 * *4 juli*, **Himmelsfärdskyrkan Höganäs, kl. 18.00 (Skåne)** 
 
 * *13 juli*, **Ödeby kyrka, kl. 18.00 (Närke)**
