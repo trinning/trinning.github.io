@@ -42,6 +42,8 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *18 augusti*, **Valinge kyrka, kl. 17.00 (Halland)**
 
+* *9 november*, **Sankta Maria kyrka, Ystad, kl. 12.00 (Skåne)**
+
 # Presenttips! Trinnings skiva
 Trinning släppte sin första skiva, STEG den 3 juni 2018. Den är inspelad i kaffestugan på Alphems arboretum i Floby i Västergötland och innehåller fjorton somriga spår. Traditionella låtar blandas med egna kompositioner, allt arrangerat av Trinning. Vill du köpa skivan till det förmånliga priset 120 kr [fyll i forumuläret här](/skivor) eller kontakta oss via vår [facebook](https://www.facebook.com/trinningfolk/). 
 
