@@ -42,6 +42,8 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *9 augusti*, **Viby kyrka, konsert under musikveckan, kl.19.00 (Närke)**
 
+* *17 augusti*, **Dans- och spelmansstämma i Kungsträdgården, Stockholm** 
+
 * *18 augusti*, **Valinge kyrka, kl. 17.00 (Halland)**
 
 * *9 november*, **Sankta Maria kyrka, Ystad, kl. 12.00 (Skåne)**
