@@ -34,6 +34,8 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *21 juli*, **Hestra kyrka, kl. 19.00 (Småland)**
 
+* *24 juli*, **Kyrkans hus i Herrljunga, kl.14.30 (Västergötland)**
+
 * *25 juli*, **Varlakyrkan, kl. 19.00 (Halland)**
 
 * *31 juli*, **Marka kyrka, kl. 19.00 (Västergötland)**
