@@ -20,7 +20,9 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *12 maj*, **Longs kyrka, kl. 18.00 (Västergötland)**
 
-* *27 juni*, **Östra Grevie kyrka, kl 19.00 (Skåne)**
+* *27 juni*, **Östra Grevie kyrka, kl. 19.00 (Skåne)**
+
+* *3 juli*, ** Värby församling, kl. ? (Skåne)**
 
 * *4 juli*, **Himmelsfärdskyrkan Höganäs, kl. 18.00 (Skåne)** 
 
@@ -34,7 +36,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *21 juli*, **Hestra kyrka, kl. 19.00 (Småland)**
 
-* *24 juli*, **Kyrkans hus i Herrljunga, kl.14.30 (Västergötland)**
+* *24 juli*, **Kyrkans hus i Herrljunga, kl. 14.30 (Västergötland)**
 
 * *25 juli*, **Varlakyrkan, kl. 19.00 (Halland)**
 
@@ -42,7 +44,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *3 augusti*, **Brandstorps kyrka, kl. 18.00 (Västergötland)**
 
-* *9 augusti*, **Viby kyrka, konsert under musikveckan, kl.19.00 (Närke)**
+* *9 augusti*, **Viby kyrka, konsert under musikveckan, kl. 19.00 (Närke)**
 
 * *17 augusti*, **Dans- och spelmansstämma i Kungsträdgården, Stockholm** 
 
