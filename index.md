@@ -22,7 +22,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *27 juni*, **Östra Grevie kyrka, kl. 19.00 (Skåne)**
 
-* *3 juli*, **Värby församling, kl. ? (Skåne)**
+* *3 juli*, **Hyby gamla kyrka, kl. 20.00 (Skåne)**
 
 * *4 juli*, **Himmelsfärdskyrkan Höganäs, kl. 18.00 (Skåne)** 
 
