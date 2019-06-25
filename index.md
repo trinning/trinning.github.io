@@ -34,7 +34,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *18 juli*, **Vetlanda kyrka, kl. 19.00 (Småland)**
 
-* *21 juli*, **Hestra kyrka, kl. 19.00 (Småland)**
+* *21 juli*, **Öreryds kyrka, kl. 19.00 (Småland)**
 
 * *24 juli*, **Kyrkans hus i Herrljunga, kl. 14.30 (Västergötland)**
 
