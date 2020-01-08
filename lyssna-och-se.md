@@ -17,6 +17,14 @@ Fler smakprov på vår musik kommer finnas efterhand på [Soundcloud](https://so
 ## Video
 Fler videos finns på vårt [YouTube konto](https://www.youtube.com/channel/UCs-2U_xDpceZgR8YJ8wmrMA).
 
+#### Live i Sankta Maria kyrka, Trelleborg 9 november 2019
+
+{% include youtubePlayer.html id="qwnkAoFa8xw" %}
+
+{% include youtubePlayer.html id="mqBVpuiLjg8" %}
+
+{% include youtubePlayer.html id="XrOdFHgX8n8" %}
+
 #### Live i Liareds kyrka 26 augusti 2018
 
 {% include youtubePlayer.html id="0LMU3bgl2AI" %}
