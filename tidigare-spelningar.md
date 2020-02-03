@@ -44,6 +44,7 @@ published: true
 
 * *9 november*, **Sankta Maria kyrka, Ystad, kl. 12.00 (Skåne)**
 
+
 ## Folk at Heart på Scandic Grand i Örebro
 Folk at Heart samlar under två dygn i Örebro hundratals musiker och band, lokalt föreningsliv och näringsliv till en stor spelfest. Syftet med Folk at Heart är att vara en konkret plats för musiker, dansare, artistbokare, musikstudios, skivbolag och musikjournalister att nätverka och marknadsföra sig själva. Inriktningen är ”Akustisk tvådygns showcase-festival för all slags musik med folkliga rötter”. Läs mer på [Folk at Heart](https://folkatheart.se/)
 
