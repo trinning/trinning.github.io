@@ -4,6 +4,46 @@ title: Tidigare spelningar
 permalink: /tidigare_spelningar/
 published: true
 ---
+# Spelningar 2019
+
+* *5 januari*, **I 117: Live at Heart, natten mellan fredag och lördag kl. 00.30** 
+ 
+* *5 januari*, **I 135: Anders Damberg, lördag kväll kl. 23.00**  
+
+* *12 maj*, **Longs kyrka, kl. 18.00 (Västergötland)**
+
+* *27 juni*, **Östra Grevie kyrka, kl. 19.00 (Skåne)**
+
+* *3 juli*, **Hyby gamla kyrka, kl. 20.00 (Skåne)**
+
+* *4 juli*, **Himmelsfärdskyrkan Höganäs, kl. 18.00 (Skåne)** 
+
+* *10 juli*, **Stora Hammars gamla kyrka, kl. 21.00 (Skåne)**
+
+* *13 juli*, **Ödeby kyrka, kl. 18.00 (Närke)**
+
+* *14 juli*, **Ässundets sommarcafé, kl. 14.00 (Närke)**
+
+* *18 juli*, **Vetlanda kyrka, kl. 19.00 (Småland)**
+
+* *21 juli*, **Öreryds kyrka, kl. 19.00 (Småland)**
+
+* *24 juli*, **Kyrkans hus i Herrljunga, kl. 14.30 (Västergötland)**
+
+* *25 juli*, **Varlakyrkan, kl. 19.00 (Halland)**
+
+* *31 juli*, **Marka kyrka, kl. 19.00 (Västergötland)**
+
+* *3 augusti*, **Brandstorps kyrka, kl. 18.00 (Västergötland)**
+
+* *9 augusti*, **Viby kyrka, konsert under musikveckan, kl. 19.00 (Närke)**
+
+* *17 augusti*, **Dans- och spelmansstämma i Kungsträdgården, Stockholm** 
+
+* *18 augusti*, **Stamnareds kyrka, kl. 17.00 (Halland)**
+
+* *9 november*, **Sankta Maria kyrka, Ystad, kl. 12.00 (Skåne)**
+
 ## Folk at Heart på Scandic Grand i Örebro
 Folk at Heart samlar under två dygn i Örebro hundratals musiker och band, lokalt föreningsliv och näringsliv till en stor spelfest. Syftet med Folk at Heart är att vara en konkret plats för musiker, dansare, artistbokare, musikstudios, skivbolag och musikjournalister att nätverka och marknadsföra sig själva. Inriktningen är ”Akustisk tvådygns showcase-festival för all slags musik med folkliga rötter”. Läs mer på [Folk at Heart](https://folkatheart.se/)
 
