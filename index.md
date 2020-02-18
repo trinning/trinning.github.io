@@ -14,7 +14,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 # Spelningar 2020
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)
 
-
+* *15 juli*, **Sommarmusik i Torbjörntorps kyrka, kl. 19.00**
 * *28 juli*, **Sommarmusik i Havstenssunds kapell**
 * *29 juli*, **Sommarmusik i Hagby kyrka, kl. 19.00**
 * *2 augusti*, **Sommarmusik i Ydre församling, kl. 20.00**
