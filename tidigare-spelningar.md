@@ -15,23 +15,13 @@ published: true
 * *11 augusti*, **Sommarmusik i Vimmerby kyrka, kl. 19.00**
 * *23 augusti*, **Sommarmusik i Veddige kyrka, kl. 18.00**
 
+# Spelningar 2019
+
 ## Folk at Heart på Scandic Grand i Örebro
 Folk at Heart samlar under två dygn i Örebro hundratals musiker och band, lokalt föreningsliv och näringsliv till en stor spelfest. Syftet med Folk at Heart är att vara en konkret plats för musiker, dansare, artistbokare, musikstudios, skivbolag och musikjournalister att nätverka och marknadsföra sig själva. Inriktningen är ”Akustisk tvådygns showcase-festival för all slags musik med folkliga rötter”. Läs mer på [Folk at Heart](https://folkatheart.se/)
 
 Trinning kommer att åka dit och rocka västgötsk folkmusik på sång, fiol och kontrabas. Vi kommer bland annat att bjuda på historien om Lilla Greta och Lars å Mars. Vi kommer också spela svängiga låtar så det spritter i benen och låtar som man kan kramas till. Kanske blir det en snuskvisa också. 
 Vem vet...
-
-## Skivsläpp 3 juni 2018
-Trinning släpper sin första skiva, STEG!
-Skivan är inspelad i kaffestugan på Alphems Arboretum och det känns fint att få komma tillbaka och ära den med skivsläppskonsert.
-
-Kom och lyssna till konsert, fika, mys i den fantastiska parken och fira med oss. Naturligtvis kan man även köpa en skiva. Eller två. 
-
-För er som aldrig varit på Alphems Arboretum tidigare så är den en fantastisk park med stenläggningar och över 200 olika sorters träd och buskar. Här finns även Snövits hus. Ja, du läste rätt. Modellen för huset i Disneys film Snövit är hämtat från Alphems Arboretum i Floby.
-
-[http://www.alphem.se/](http://www.alphem.se/ "Alphems arboretum")
-
-# Spelningar 2019
 
 * *5 januari*, **I 117: Live at Heart, natten mellan fredag och lördag kl. 00.30** 
 * *5 januari*, **I 135: Anders Damberg, lördag kväll kl. 23.00**  
@@ -54,6 +44,17 @@ För er som aldrig varit på Alphems Arboretum tidigare så är den en fantastis
 * *9 november*, **Sankta Maria kyrka, Ystad, kl. 12.00 (Skåne)**
 
 ## Sommarmusik & spelningar 2018
+
+## Skivsläpp 3 juni 2018
+Trinning släpper sin första skiva, STEG!
+Skivan är inspelad i kaffestugan på Alphems Arboretum och det känns fint att få komma tillbaka och ära den med skivsläppskonsert.
+
+Kom och lyssna till konsert, fika, mys i den fantastiska parken och fira med oss. Naturligtvis kan man även köpa en skiva. Eller två. 
+
+För er som aldrig varit på Alphems Arboretum tidigare så är den en fantastisk park med stenläggningar och över 200 olika sorters träd och buskar. Här finns även Snövits hus. Ja, du läste rätt. Modellen för huset i Disneys film Snövit är hämtat från Alphems Arboretum i Floby.
+
+[http://www.alphem.se/](http://www.alphem.se/ "Alphems arboretum")
+
 * *3 juni*, **Skivsläppskonsert för Trinnings första skiva på Alphems arboretum kl. 15.00 (Västergötland)**  
 * *17 juni*, **Vistorps kyrka kl. 19.00 (Västergötland)**  
 * *1 juli*, **Öra kyrka  kl. 19.00 (Västergötland)**    
