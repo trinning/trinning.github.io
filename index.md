@@ -13,6 +13,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 # Spelningar 2021
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)
+
 Förändringar kan komma att ske beroende på pågående pandemi.
 
 * * 17 juli*, **Sommarmusik, Skärvs kyrka, kl. 19.00**
