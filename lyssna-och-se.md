@@ -2,20 +2,14 @@
 layout: page
 title: Ljud och video
 permalink: /lyssna/
+published: true
 ---
-## Ljud
-Fler smakprov på vår musik kommer finnas efterhand på [Soundcloud](https://soundcloud.com/trinning)
-
-#### Live i Liareds kyrka 26 augusti 2018
-
-{% include soundcloudListPlayer.html id="656019861" %}
-
-### Förhandslyssning på vår skiva
-
-{% include soundcloudListPlayer.html id="416559200" %}
-
 ## Video
 Fler videos finns på vårt [YouTube konto](https://www.youtube.com/channel/UCs-2U_xDpceZgR8YJ8wmrMA).
+
+{% include youtubePlayer.html id="2NrY-RgXvcQ" %}Trinning spelar ett utdrag av en vals efter Gottfrid Fornander, Fjärås, Halland.
+
+{% include youtubePlayer.html id="KeIFC8jNGtw" %}Två västgötapolskor efter Ahlberg från Lilleskog och Lindell från Lundsbrunn.
 
 #### Live i Sankta Maria kyrka, Trelleborg 9 november 2019
 
@@ -36,3 +30,14 @@ Den blomstertid nu kommer. Folklig koralversion från Estlands svenskbygder efte
 
 {% include youtubePlayer.html id="pM-koxgv2_I" %}
 Gåsa gåsa klinga i ett set tillsammans med engelskan Whiskey before breakfast.
+
+## Ljud
+Fler smakprov på vår musik kommer finnas efterhand på [Soundcloud](https://soundcloud.com/trinning)
+
+#### Live i Liareds kyrka 26 augusti 2018
+
+{% include soundcloudListPlayer.html id="656019861" %}
+
+### Förhandslyssning på vår skiva
+
+{% include soundcloudListPlayer.html id="416559200" %}
