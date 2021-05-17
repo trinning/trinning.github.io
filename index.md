@@ -16,6 +16,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 Förändringar kan komma att ske beroende på pågående pandemi.
 
 * *17 juli*, **Sommarmusik, Skärvs kyrka, kl. 19.00**
+* *18 juli*, **Sommarmusik, Ransbergskyrka kl. 19.00**
 * *24 juli*, **Sommarmusik, Mariakyrkan Båstad, kl. 12.00**
 * *25 juli*, **Sommarmusik, Kyrkheddinge kyrka, kl. 18.00**
 * *8 augusti*, **Sommarmusik, Ydre församling, kl. 20.00**
