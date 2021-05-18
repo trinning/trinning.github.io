@@ -15,11 +15,13 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)  
 Förändringar kan komma att ske beroende på pågående pandemi.
 
+* *11 juli*, **Sommarmusik, Ljungskile fsm, kl. 19.00**
 * *17 juli*, **Sommarmusik, Skärvs kyrka, kl. 19.00**
 * *18 juli*, **Sommarmusik, Ransbergskyrka kl. 19.00**
 * *24 juli*, **Sommarmusik, Mariakyrkan Båstad, kl. 12.00**
 * *25 juli*, **Sommarmusik, Kyrkheddinge kyrka, kl. 18.00**
-* *8 augusti*, **Sommarmusik, Ydre församling, kl. 20.00**
+* *28 juli*, **Sommarmusik, Hallaröds kyrka, kl 19.00 & 20.00**
+* *8 augusti*, **Sommarmusik, Torpa kyrka, kl. 20.00**
 * *11 augusti*, **Sommarmusik, Vetlanda kyrka, kl. 19.00**
 * *22 augusti*, **Sommarmusik, Yllestads kyrka, kl. 19.00**
 
