@@ -26,6 +26,7 @@ Förändringar kan komma att ske beroende på pågående pandemi.
 * *28 juli*, **Sommarmusik, Hallaröds kyrka, kl 19.00 & 20.00**
 * *8 augusti*, **Sommarmusik, Torpa kyrka, kl. 20.00**
 * *11 augusti*, **Sommarmusik, Vetlanda kyrka, kl. 19.00**
+* *15 augusti*, **Sommarmusik, Hakarps kyrka, kl. 18.00**
 * *22 augusti*, **Sommarmusik, Yllestads kyrka, kl. 19.00**
 
 # Presenttips! Trinnings skiva
