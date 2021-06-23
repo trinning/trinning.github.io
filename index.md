@@ -20,6 +20,7 @@ Förändringar kan komma att ske beroende på pågående pandemi.
 * *14 juli*, **Sommarmusik, Mölle kapell, kl. 20.00** 
 * *17 juli*, **Sommarmusik, Skärvs kyrka, kl. 19.00**
 * *18 juli*, **Sommarmusik, Kyrkefalla kyrka, kl. 19.00**
+* *20 juli*, **Sommarmusik, Snöstorps kyrka, kl. 19.00**
 * *21 juli*, **Sommarmusik, Eftra kyrka, kl. 19.00**
 * *24 juli*, **Sommarmusik, Mariakyrkan Båstad, kl. 12.00**
 * *25 juli*, **Sommarmusik, Kyrkheddinge kyrka, kl. 18.00**
