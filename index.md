@@ -15,8 +15,8 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)  
 Förändringar kan komma att ske beroende på pågående pandemi.
 
-* *8 juli*, **Sommarmusik, Klövedals kyrka, kl.19.00**
-* *11 juli*, **Sommarmusik, Ljungskile fsm, kl. 19.00**
+* *8 juli*, **Sommarmusik, Klövedals kyrka på Tjörn, kl.19.00**
+* *11 juli*, **Sommarmusik, Ljungs kyrka i Ljungskile fsm, kl. 19.00**
 * *14 juli*, **Sommarmusik, Mölle kapell, kl. 20.00** 
 * *17 juli*, **Sommarmusik, Skärvs kyrka, kl. 19.00**
 * *18 juli*, **Sommarmusik, Kyrkefalla kyrka, kl. 19.00**
