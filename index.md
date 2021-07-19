@@ -28,6 +28,7 @@ Förändringar kan komma att ske beroende på pågående pandemi.
 * *8 augusti*, **Sommarmusik, Torpa kyrka, kl. 20.00**
 * *11 augusti*, **Sommarmusik, Vetlanda kyrka, kl. 19.00**
 * *15 augusti*, **Sommarmusik, Hakarps kyrka, kl. 18.00**
+* *21 augusti*, **Privat spelning**
 * *22 augusti*, **Sommarmusik, Yllestads kyrka, kl. 19.00**
 * *28 augusti*, **Sommarmusik, Nävelsjö kyrka, kl. 19.00**
 
