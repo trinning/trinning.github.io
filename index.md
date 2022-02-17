@@ -11,9 +11,17 @@ published: true
 Trinning spelar och sjunger svensk folkmusik. Mycket hämtar vi från den västgötska folkmusiktraditionen, en del är egenskrivet material, men det kan också slinka 
 in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från den svenska visskatten. Allt är arrangerat av oss själva och framförs trestämmigt, med omväxlande instrumentala, vokala och blandade arrangemang.
 
-# Spelningar 2021
+# Spelningar 2022
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)  
-Förändringar kan komma att ske beroende på pågående pandemi.
+
+* *3 juli*, **Sommarmusik, Mellby kyrka, kl. 18.00**
+* *14 juli*, **Sommarmusik, Ölmevalla kyrka, kl. 19.00**
+* *17 juli*, **Sommarmusik, Allerums kyrka. kl. 18.00**
+* *23 juli*, **Sommarmusik, Nydala klosterkyrka, kl. 18.00**
+* *3 augusti*, **Sommarmusik, Hamburgsunds kyrka, kl. 19.00**
+* *14 augusti*, **Sommarmusik, Hakarps kyrka, kl. 18.00** 
+
+# Spelningar 2021
 
 * *8 juli*, **Sommarmusik, Klövedals kyrka på Tjörn, kl.19.00**
 * *11 juli*, **Sommarmusik, Ljungs kyrka i Ljungskile fsm, kl. 19.00**
