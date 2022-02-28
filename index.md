@@ -14,6 +14,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 # Spelningar 2022
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)  
 
+* *26 juni*, **Sommarmusik, Sandseryds kyrka, kl. 18.00**
 * *3 juli*, **Sommarmusik, Mellby kyrka, kl. 18.00**
 * *14 juli*, **Sommarmusik, Ölmevalla kyrka, kl. 19.00**
 * *17 juli*, **Sommarmusik, Allerums kyrka. kl. 18.00**
