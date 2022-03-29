@@ -9,7 +9,7 @@ Trinning består av tre folkmusiker med rötterna vid Mössebergs fot i Västerg
 Vi spelar på fest, bröllop, musikgudstjänster, begravning, eller andra arrangemang. Vi har också möjlighet att hålla i kurs & workshop, med eller utan kombination av konsert.
 
 ### Trinning består av:
-<table style="border:hidden;">
+<table>
 <colgroup>
 <col width="33%" />
 <col width="33%" />
