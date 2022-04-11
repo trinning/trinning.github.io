@@ -25,6 +25,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *28 juli*, **Sommarmusik, Gessie kyrka, kl. 19.00**
 * *30 juli*, **Sommarmusik, Fullösa kyrka, kl. 19.00**
 * *3 augusti*, **Sommarmusik, Hamburgsunds kyrka, kl. 19.00**
+* *9 augusti*, **Sommarmusik, Snöstorps kyrka, kl. 19.00**
 * *10 augusti*, **Sommarmusik, Åhus kyrka, kl. 19.00**
 * *14 augusti*, **Sommarmusik, Hakarps kyrka, kl. 18.00** 
 
