@@ -29,6 +29,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *9 augusti*, **Sommarmusik, Snöstorps kyrka, kl. 19.00**
 * *10 augusti*, **Sommarmusik, Åhus kyrka, kl. 19.00**
 * *14 augusti*, **Sommarmusik, Hakarps kyrka, kl. 18.00** 
+* *28 augusti*, **Sommarmusik, Skärvs kyrka, kl.19.00**
 
 # Spelningar 2021
 
