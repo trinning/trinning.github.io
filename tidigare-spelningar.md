@@ -4,6 +4,26 @@ title: Tidigare spelningar
 permalink: /tidigare_spelningar/
 published: true
 ---
+# Spelningar 2021
+
+* *8 juli*, **Sommarmusik, Klövedals kyrka på Tjörn, kl.19.00**
+* *11 juli*, **Sommarmusik, Ljungs kyrka i Ljungskile fsm, kl. 19.00**
+* *14 juli*, **Sommarmusik, Mölle kapell, kl. 20.00** 
+* *17 juli*, **Sommarmusik, Skärvs kyrka, kl. 19.00**
+* *18 juli*, **Sommarmusik, Kyrkefalla kyrka, kl. 19.00**
+* *20 juli*, **Sommarmusik, Snöstorps kyrka, kl. 19.00**
+* *21 juli*, **Sommarmusik, Eftra kyrka, kl. 19.00**
+* *24 juli*, **Sommarmusik, Mariakyrkan Båstad, kl. 12.00**
+* *25 juli*, **Sommarmusik, Kyrkheddinge kyrka, kl. 18.00**
+* *28 juli*, **Sommarmusik, Hallaröds kyrka, kl 19.00 & 20.00**
+* *8 augusti*, **Sommarmusik, Torpa kyrka, kl. 20.00**
+* *11 augusti*, **Sommarmusik, Vetlanda kyrka, kl. 19.00**
+* *15 augusti*, **Sommarmusik, Hakarps kyrka, kl. 18.00**
+* *21 augusti*, **Privat spelning**
+* *22 augusti*, **Sommarmusik, Yllestads kyrka, kl. 19.00**
+* *28 augusti*, **Sommarmusik, Nävelsjö kyrka, kl. 19.00**
+* *26 september*, **Musikgudstjänst i Larvs kyrka, kl. 18.00**
+
 # Spelningar 2020
 
 * ~~*1 juli*, **Sommarmusik, Lekhuset på Nääs, kl. 19.00**~~ - **INSTÄLLT**
