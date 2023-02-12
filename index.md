@@ -40,26 +40,6 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *14 augusti*, **Sommarmusik, Hakarps kyrka, kl. 18.00** 
 * *28 augusti*, **Sommarmusik, Skärvs kyrka, kl.19.00**
 
-# Spelningar 2021
-
-* *8 juli*, **Sommarmusik, Klövedals kyrka på Tjörn, kl.19.00**
-* *11 juli*, **Sommarmusik, Ljungs kyrka i Ljungskile fsm, kl. 19.00**
-* *14 juli*, **Sommarmusik, Mölle kapell, kl. 20.00** 
-* *17 juli*, **Sommarmusik, Skärvs kyrka, kl. 19.00**
-* *18 juli*, **Sommarmusik, Kyrkefalla kyrka, kl. 19.00**
-* *20 juli*, **Sommarmusik, Snöstorps kyrka, kl. 19.00**
-* *21 juli*, **Sommarmusik, Eftra kyrka, kl. 19.00**
-* *24 juli*, **Sommarmusik, Mariakyrkan Båstad, kl. 12.00**
-* *25 juli*, **Sommarmusik, Kyrkheddinge kyrka, kl. 18.00**
-* *28 juli*, **Sommarmusik, Hallaröds kyrka, kl 19.00 & 20.00**
-* *8 augusti*, **Sommarmusik, Torpa kyrka, kl. 20.00**
-* *11 augusti*, **Sommarmusik, Vetlanda kyrka, kl. 19.00**
-* *15 augusti*, **Sommarmusik, Hakarps kyrka, kl. 18.00**
-* *21 augusti*, **Privat spelning**
-* *22 augusti*, **Sommarmusik, Yllestads kyrka, kl. 19.00**
-* *28 augusti*, **Sommarmusik, Nävelsjö kyrka, kl. 19.00**
-* *26 september*, **Musikgudstjänst i Larvs kyrka, kl. 18.00**
-
 # Presenttips! Trinnings skiva
 Trinning släppte sin första skiva, STEG den 3 juni 2018. Den är inspelad i kaffestugan på Alphems arboretum i Floby i Västergötland och innehåller fjorton somriga spår. Traditionella låtar blandas med egna kompositioner, allt arrangerat av Trinning. Vill du köpa skivan till det förmånliga priset 120 kr [fyll i forumuläret här](/skivor) eller kontakta oss via vår [facebook](https://www.facebook.com/trinningfolk/). 
 
