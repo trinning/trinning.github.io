@@ -11,8 +11,17 @@ published: true
 Trinning spelar och sjunger svensk folkmusik. Mycket hämtar vi från den västgötska folkmusiktraditionen, en del är egenskrivet material, men det kan också slinka 
 in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från den svenska visskatten. Allt är arrangerat av oss själva och framförs trestämmigt, med omväxlande instrumentala, vokala och blandade arrangemang.
 
-# Spelningar 2022
+# Spelningar 2023
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)  
+
+* *31 maj*, **Musik och grillkväll i trädgården vid Västra Skepparslövs församlingshem, kl. 18.00**
+* *7 juni*, **Sommarmusik, Seglora kyrka, kl. 18.30**
+* *19 juli*, **Sommarmusik, Bäckseda kyrka, kl. 18.00**
+* *20 juli*, **Sommarmusik, Idala kyrka, kl. 19.00**
+* *23 juli*, **Sommarmusik, Forshälla kyrka, kl. 19.00**
+* *2 augusti*, **Sommarmusik, Norra Rörums kyrka, kl.19.00**
+
+# Spelningar 2022
 
 * *25 juni*, **Sommarmusik, Luttra kyrka, kl. 19.00**
 * *26 juni*, **Sommarmusik, Sandseryds kyrka, kl. 18.00**
