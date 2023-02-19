@@ -21,6 +21,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *20 juli*, **Sommarmusik, Idala kyrka, kl. 19.00**
 * *23 juli*, **Sommarmusik, Forshälla kyrka, kl. 19.00**
 * *2 augusti*, **Sommarmusik, Norra Rörums kyrka, kl. 19.00**
+* *10 augusti*, **Sommarmusik, Hultsjö kyrka, kl. 18.00**
 * *13 augusti*, **Sommarmusik, Timmele kyrka, kl. 18.00**
 
 # Spelningar 2022
