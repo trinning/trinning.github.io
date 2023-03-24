@@ -19,7 +19,7 @@ Vi spelar på fest, bröllop, musikgudstjänster, begravning, eller andra arrang
     <tr>
       <th>Åsa Björkman</th>
       <th>Karin Sjöberg</th>
-      <th>Anna Dahlgren</th>
+      <th>Anna Dahlgren Carlsson</th>
     </tr>
   </thead>
   <tbody>
