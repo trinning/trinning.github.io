@@ -9,7 +9,7 @@ Vi är mycket stolta att efter ett par decenniers spelande tillsammans presenter
 
 Läs gärna [Liras recension](http://www.lira.se/skivrecension/steg/) där vi bland annat fick omdömet _"Finurligt leker de tre Zorn­märkesbelönade spelkvinnorna med intressanta harmonier och finfint stämspel. Lätt är att drömma sig bort till deras sommarlandskap med blå himmel, gröna ängar och gula rapsfält"_.
 
-Skivan finns till försäljning för 120 kronor och vill du köpa ett (eller flera!) exemplar så fyll i formuläret nedan. Du kan också [kontakta oss](/kontakt) på andra sätt om du har speciella önskemål.
+Skivan finns till försäljning för 100 kronor och vill du köpa ett (eller flera!) exemplar så fyll i formuläret nedan. Du kan också [kontakta oss](/kontakt) på andra sätt om du har speciella önskemål.
 
 <html lang="en">
   <head>
@@ -112,4 +112,3 @@ Skivan finns till försäljning för 120 kronor och vill du köpa ett (eller fle
 
   </body>
 </html>
-
