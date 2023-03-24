@@ -14,9 +14,10 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 # Spelningar 2023
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt)  
 
-* *31 maj*, **Musik och grillkväll i trädgården vid Västra Skepparslövs församlingshem, kl. 18.00**
+* *31 maj*, **Musik och grillkväll i trädgården vid Vä-Skepparslövs församlingshem, kl. 18.00**
 * *7 juni*, **Sommarmusik, Seglora kyrka, kl. 18.30**
 * *2 juli*, **Sommarmusik, Gökhems kyrka, kl. 18.00**
+* *14 juli*, **Sommarmusik, Abilds kyrka, kl. 18.00**
 * *19 juli*, **Sommarmusik, Bäckseda kyrka, kl. 18.00**
 * *20 juli*, **Sommarmusik, Idala kyrka, kl. 19.00**
 * *23 juli*, **Sommarmusik, Forshälla kyrka, kl. 19.00**
