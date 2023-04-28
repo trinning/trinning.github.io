@@ -16,6 +16,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *31 maj*, **Musik och grillkväll i trädgården vid Vä-Skepparslövs församlingshem, kl. 18.00**
 * *7 juni*, **Sommarmusik, Seglora kyrka, kl. 18.30**
+* *8 juni*, **Sommarmusik, Lagmansereds kyrka, kl. 20.00**
 * *2 juli*, **Sommarmusik, Gökhems kyrka, kl. 18.00**
 * *14 juli*, **Sommarmusik, Abilds kyrka, kl. 18.00**
 * *19 juli*, **Sommarmusik, Bäckseda kyrka, kl. 18.00**
