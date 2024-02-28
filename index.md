@@ -18,6 +18,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *7 juli*, **Sommarmusik, Norra Hestra församling, kl. 19.00**
 * *14 juli*, **Sommarmusik, Norra billings pastorat Skövde, kl. 19.00**
 * *16 juli*, **Sommarmusik, Tranås församling, kl. 18.30**
+* *17 juli*, **Sommarmusik, Rumskulla kyrka, kl. 18.00**
 * *21 juli*, **Sommarmusik, Lunedskyrkan Karskoga, kl. 17.00**
 * *31 juli*, **Sommarmusik, Ods kyrka, kl. 19.00**
 * *8 augusti*, **Sommarmusik, Tofteryds kyrka, kl. 19.00**
