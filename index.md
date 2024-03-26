@@ -16,6 +16,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *13 april*, **Konsert, Husie kyrka, kl. 16.00**
 * *6 juni*, **Musik på Nationaldagen, Fölene Kyrka, kl. 16.00**
+* *23 juni*, **Sommarmusik, Friggeråkers kyrka, kl.19.00**
 * *7 juli*, **Sommarmusik, Norra Hestra församling, kl. 19.00**
 * *14 juli*, **Sommarmusik, Norra billings pastorat Skövde, kl. 19.00**
 * *16 juli*, **Sommarmusik, Adelöv kyrka, kl. 18.30**
