@@ -4,6 +4,25 @@ title: Tidigare spelningar
 permalink: /tidigare_spelningar/
 published: true
 ---
+# Spelningar 2022
+
+* *25 juni*, **Sommarmusik, Luttra kyrka, kl. 19.00**
+* *26 juni*, **Sommarmusik, Sandseryds kyrka, kl. 18.00**
+* *3 juli*, **Sommarmusik, Mellby kyrka, kl. 18.00**
+* *14 juli*, **Sommarmusik, Ölmevalla kyrka, kl. 19.00**
+* *17 juli*, **Sommarmusik, Allerums kyrka. kl. 18.00**
+* *20 juli*, **Sommarmusik, Vetlanda kyrka. kl. 19.00**
+* *23 juli*, **Sommarmusik, Nydala klosterkyrka, kl. 18.00**
+* *24 juli*, **Sommarmusik, Järstorps kyrka, kl. 19.00** 
+* *28 juli*, **Sommarmusik, Gessie kyrka, kl. 19.00**
+* *30 juli*, **Sommarmusik, Fullösa kyrka, kl. 19.00**
+* *2 augusti*, **Sommarmusik, Kållereds kyrka, kl. 19.00**
+* *3 augusti*, **Sommarmusik, Hamburgsunds kyrka, kl. 19.00**
+* *9 augusti*, **Sommarmusik, Snöstorps kyrka, kl. 19.00**
+* *10 augusti*, **Sommarmusik, Åhus kyrka, kl. 19.00**
+* *14 augusti*, **Sommarmusik, Hakarps kyrka, kl. 18.00** 
+* *28 augusti*, **Sommarmusik, Skärvs kyrka, kl.19.00**
+
 # Spelningar 2021
 
 * *8 juli*, **Sommarmusik, Klövedals kyrka på Tjörn, kl.19.00**
