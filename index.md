@@ -15,11 +15,13 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt) 
 
 * *13 april*, **Konsert, Husie kyrka, kl. 16.00**
+* *6 juni*, **Musik på Nationaldagen, Fölene Kyrka, kl. 16.00**
 * *7 juli*, **Sommarmusik, Norra Hestra församling, kl. 19.00**
 * *14 juli*, **Sommarmusik, Norra billings pastorat Skövde, kl. 19.00**
 * *16 juli*, **Sommarmusik, Adelöv kyrka, kl. 18.30**
 * *17 juli*, **Sommarmusik, Rumskulla kyrka, kl. 18.00**
 * *21 juli*, **Sommarmusik, Lunedskyrkan Karskoga, kl. 17.00**
+* *25 juli*, **Sommarmusik, Husaby kyrka, kl. 19.00**
 * *31 juli*, **Sommarmusik, Ods kyrka, kl. 19.00**
 * *8 augusti*, **Sommarmusik, Tofteryds kyrka, kl. 19.00**
 * *18 augusti*, **Sommarmusik, Fivlereds kyrka, kl.18.00**
