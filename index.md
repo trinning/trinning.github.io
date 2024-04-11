@@ -16,9 +16,10 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 * *13 april*, **Konsert, [Husie kyrka](https://maps.app.goo.gl/Xza21DtFZcE4V1Uo6 "Karta till spelningen"), kl. 16.00**
 * *6 juni*, **Musik på Nationaldagen, [Fölene Kyrka](https://maps.app.goo.gl/8hevZsf7eFrvA4339 "Karta till spelningen"), kl. 16.00**
+* *19 juni*, **Sommarkonsert, Klosterkyrkan i Lund, kl.19.00**
 * *23 juni*, **Sommarmusik, [Friggeråkers kyrka](https://maps.app.goo.gl/C9gLWrsS5BnnJaxB8 "Karta till spelningen"), kl.19.00**
 * *7 juli*, **Sommarmusik, Norra Hestra församling (Plats ej klar), kl. 19.00**
-* *14 juli*, **Sommarmusik, Norra billings pastorat Skövde (Plats ej klar), kl. 19.00**
+* *14 juli*, **Sommarmusik, Horns kyrka, kl. 19.00**
 * *16 juli*, **Sommarmusik, [Adelöv kyrka](https://maps.app.goo.gl/QzpjtT6Re8hh18xS6 "Karta till spelningen"), kl. 18.30**
 * *17 juli*, **Sommarmusik, [Rumskulla kyrka](https://maps.app.goo.gl/42PE8kmj5Boacaiu7 "Karta till spelningen"), kl. 18.00**
 * *21 juli*, **Sommarmusik, [Lunedskyrkan Karlskoga](https://maps.app.goo.gl/j2QVA16jE4AAEZHu5 "Karta till spelningen"), kl. 17.00**
