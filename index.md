@@ -24,9 +24,11 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *17 juli*, **Sommarmusik, [Rumskulla kyrka](https://maps.app.goo.gl/42PE8kmj5Boacaiu7 "Karta till spelningen"), kl. 18.00**
 * *21 juli*, **Sommarmusik, [Lunedskyrkan Karlskoga](https://maps.app.goo.gl/j2QVA16jE4AAEZHu5 "Karta till spelningen"), kl. 17.00**
 * *25 juli*, **Sommarmusik, [Husaby kyrka](https://maps.app.goo.gl/wBHkXp68gEQGjhCD9 "Karta till spelningen"), kl. 19.00**
-* *31 juli*, **Sommarmusik, [Ods kyrka](https://maps.app.goo.gl/oq22nVhm2nNs8dMS6 "Karta till spelningen"), kl. 19.00**
+* *31 juli*, **Sommarmusik, [Ods kyrka](https://maps.app.goo.gl/oq22nVhm2nNs8dMS6 "Karta till spelningen"), kl. 19.00** 
+* * 1 augusti*, **Sommarmusik, Morups kyrka, kl.19.00**
 * *7 augusti*, **Sommarmusik, Bredareds kyrka, kl.19.00**
 * *8 augusti*, **Sommarmusik, [Tofteryds kyrka](https://maps.app.goo.gl/KgwMMGLj5FzfG3ca9 "Karta till spelningen"), kl. 19.00**
+* * 11 augusti* **Sommarmusik, Månsarps kyrka, kl.18. 00**
 * *18 augusti*, **Sommarmusik, [Fivlereds kyrka](https://maps.app.goo.gl/h2FbqrTBt9wYzUpw5 "Karta till spelningen"), kl.18.00**
 
 # Spelningar 2023 
