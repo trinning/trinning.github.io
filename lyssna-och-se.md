@@ -7,6 +7,8 @@ published: true
 ## Video
 Fler videos finns på vårt [YouTube konto](https://www.youtube.com/channel/UCs-2U_xDpceZgR8YJ8wmrMA).
 
+{% include youtubePlayer.html id="IAT0W9DEKy0" %}Schottis efter Carl-Eric Berndt, Lund, Skåne. Inspelad 2024-09-21 i Hällestad kyrka.
+
 {% include youtubePlayer.html id="5SvkhMzBZT0" %}Den Signade dag, koralversion from Seglora, Västergötland. Inspelad 2024-09-21 i Hällestad kyrka.
 
 {% include youtubePlayer.html id="2NrY-RgXvcQ" %}Trinning spelar ett utdrag av en vals efter Gottfrid Fornander, Fjärås, Halland.
