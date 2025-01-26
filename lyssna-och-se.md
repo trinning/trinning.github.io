@@ -9,6 +9,8 @@ Fler videos finns på vårt [YouTube konto](https://www.youtube.com/channel/UCs-
 
 #### Inspelning 2024-09-21 i Hällestad kyrka, Floby, Västergötland. 21 september 2025
 
+{% include youtubePlayer.html id="5SvkhMzBZT0" %}Den Signade dag, koralversion from Seglora, Västergötland.
+
 {% include youtubePlayer.html id="aS7PCSIDVB8" %}Trinning efter Ernst Hassel, Hasslerör, Västergötland.
 
 {% include youtubePlayer.html id="e35AvZKegTI" %}Polonäs nr 158 i A-dur från Sexdregasamlingen del 1, Västergötland.
@@ -16,8 +18,6 @@ Fler videos finns på vårt [YouTube konto](https://www.youtube.com/channel/UCs-
 {% include youtubePlayer.html id="lSi3ivbewak" %}Polska till vänster, av Anna Dahlgren Carlsson.
 
 {% include youtubePlayer.html id="IAT0W9DEKy0" %}Schottis av Carl-Eric Berndt, Lund, Skåne.
-
-{% include youtubePlayer.html id="5SvkhMzBZT0" %}Den Signade dag, koralversion from Seglora, Västergötland.
 
 #### Smått och gott
 
