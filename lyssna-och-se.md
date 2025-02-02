@@ -11,7 +11,7 @@ Fler videos finns på vårt [YouTube konto](https://www.youtube.com/channel/UCs-
 
 {% include youtubePlayer.html id="5SvkhMzBZT0" %}Den Signade dag, koralversion from Seglora, Västergötland.
 
-{% include youtubePlayer.html id="aS7PCSIDVB8" %}Trinning efter Ernst Hassel, Hasslerör, Västergötland.
+{% include youtubePlayer.html id="S2AvXMJNc_A" %}Trinning efter Johan Lidman, Järpås, Västergötland.
 
 {% include youtubePlayer.html id="e35AvZKegTI" %}Polonäs nr 158 i A-dur från Sexdregasamlingen del 1, Västergötland.
 
