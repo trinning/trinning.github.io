@@ -4,6 +4,22 @@ title: Tidigare spelningar
 permalink: /tidigare_spelningar/
 published: true
 ---
+# Spelningar 2023 
+
+* *31 maj*, **Musik och grillkväll i trädgården vid Vä-Skepparslövs församlingshem, kl. 18.00**
+* *7 juni*, **Sommarmusik, Seglora kyrka, kl. 18.30**
+* *8 juni*, **Sommarmusik, Lagmansereds kyrka, kl. 20.00**
+* *2 juli*, **Sommarmusik, Gökhems kyrka, kl. 18.00**
+* *14 juli*, **Sommarmusik, Abilds kyrka, kl. 18.00**
+* *19 juli*, **Sommarmusik, Bäckseda kyrka, kl. 18.00**
+* *20 juli*, **Sommarmusik, Idala kyrka, kl. 19.00**
+* *23 juli*, **Sommarmusik, Forshälla kyrka, kl. 19.00**
+* *2 augusti*, **Sommarmusik, Norra Rörums kyrka, kl. 19.00**
+* *10 augusti*, **Sommarmusik, Hultsjö kyrka, kl. 18.00**
+* *13 augusti*, **Sommarmusik, Timmele kyrka, kl. 18.00**
+* *16 augusti*, **Sommarmusik, S:t Olofs kyrka, Falköping, kl. 19.00**
+* *17 augusti*, **Sommarmusik, Varnhems klosterkyrka, kl. 19.30**
+
 # Spelningar 2022
 
 * *25 juni*, **Sommarmusik, Luttra kyrka, kl. 19.00**
