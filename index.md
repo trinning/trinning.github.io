@@ -16,6 +16,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *30 april*, **Musik vid Valborg, Fryele kyrka, kl. 19.00**
 * *28 juni*, **Lunchmusik, Domkyrkan Göteborg, kl. 12.00**
 * *2 juli*, **Sommarmusik, S:ta Anna kyrka Helsingborg, kl.19.00**
+* *10 juli*, **Sommarmusik, Nösslinge kyrka, kl.18.00**
 * *3 augusti*, **Sommarmusik, Hällestads kyrka, kl.18.00**
 * *10 augusti*, **Sommarmusik, Holms kyrka, kl.18.00**
 * *17 augusti*, **Sommarmusik, Prästrädgården Torsby, kl.17.00**
