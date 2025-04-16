@@ -14,6 +14,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 # Spelningar 2025
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt) 
 * *30 april*, **Musik vid Valborg, Fryele kyrka, kl. 19.00**
+* *19 juni*, **Sommarmusik, Älvsåkers kyrka, kl. 19.00** 
 * *28 juni*, **Lunchmusik, Domkyrkan Göteborg, kl. 12.00**
 * *2 juli*, **Sommarmusik, S:ta Anna kyrka Helsingborg, kl.19.00**
 * *10 juli*, **Sommarmusik, Nösslinge kyrka, kl.18.00**
