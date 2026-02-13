@@ -11,9 +11,8 @@ published: true
 Trinning spelar och sjunger svensk folkmusik. Mycket hämtar vi från den västgötska folkmusiktraditionen, en del är egenskrivet material, men det kan också slinka 
 in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från den svenska visskatten. Allt är arrangerat av oss själva och framförs trestämmigt, med omväxlande instrumentala, vokala och blandade arrangemang.
 
-Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt) 
-
 # Spelningar 2026
+Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt) 
 * *28 mars*, **Musik med Trinning i Christinae kyrka i Alingsås, kl. 17.00**
 
 # Spelningar 2025
