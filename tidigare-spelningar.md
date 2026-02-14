@@ -5,7 +5,7 @@ permalink: /tidigare_spelningar/
 published: true
 ---
 # Spelningar 2024
-​
+
 * *13 april*, **Konsert, [Husie kyrka](https://maps.app.goo.gl/43kcL2idQsvnsw789 "Karta till spelningen"), kl. 16.00**
 * *6 juni*, **Musik på Nationaldagen, [Fölene Kyrka](https://maps.app.goo.gl/8hevZsf7eFrvA4339 "Karta till spelningen"), kl. 16.00**
 * *19 juni*, **Sommarkonsert, [Klosterkyrkan i Lund](https://maps.app.goo.gl/ZJEAaEwzWxnN1nnY8 "Karta till spelningen"), kl. 19.00**
@@ -22,6 +22,7 @@ published: true
 * *8 augusti*, **Sommarmusik, [Tofteryds kyrka](https://maps.app.goo.gl/KgwMMGLj5FzfG3ca9 "Karta till spelningen"), kl. 19.00**
 * *11 augusti* **Sommarmusik, [Månsarps kyrka](https://maps.app.goo.gl/iNporbjvBpFE8zmW7 "Karta till spelningen"), kl. 18.00**
 * *18 augusti*, **Sommarmusik, [Fivlereds kyrka](https://maps.app.goo.gl/h2FbqrTBt9wYzUpw5 "Karta till spelningen"), kl. 18.00**
+
 # Spelningar 2023 
 
 * *31 maj*, **Musik och grillkväll i trädgården vid Vä-Skepparslövs församlingshem, kl. 18.00**
