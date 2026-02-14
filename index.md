@@ -21,7 +21,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *8 juli*, **Sommarmusik, Grästorps pastorat, kl. 19.00**
 * *9 juli*, **Lunchkonsert, Torekovs kyrka, kl. 12.00**
 * *12 juli*, **Sommarmusik, Norra Billings pastorat, kl. 19.00**
-* *16 juli*, **Sommarmusik, St: Pauli kyrka Eskilstuna, kl. 18.00**
+* *16 augusti*, **Sommarmusik, St: Pauli kyrka Eskilstuna, kl. 18.00**
 
 # Spelningar 2025
 * *30 april*, **Musik vid Valborg, [Fryele kyrka](https://maps.app.goo.gl/KTtytmoXQFw1pnDA9 "Karta till spelningen"), kl. 19.00**
