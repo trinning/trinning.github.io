@@ -15,13 +15,13 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt) 
 * *28 mars*, **Musik med Trinning i Christinae kyrka i Alingsås, kl. 17.00**
 * *19 juni*, **Midsommarmusik med Trinning i Humla Kyrka, kl. 22.30**
-* *21 juni*, **Sommarmusik i Ystad församling, kl.18.00**
-* *5 juli*, **Sommarmusik i Vilske Kleva kyrka, kl.18.00**
-* *7 juli*, **Sommarmusik i Vessige eller Okome kyrka, kl.18.00**
-* *8 juli*, **Sommarmusik i Grästorp, kl.19.00**
-* *9 juli*, **Lunchkonsert i Torekovs kyrka, kl.12.00**
-* *12 juli*, **Sommarmusik i Norra Billings pasatorat, kl.19.00**
-* *16 juli*, **Sommarmusi i St: Pauli kyrka Eskilstuna, kl.18.00**
+* *21 juni*, **Sommarmusik i Ystad församling, kl. 18.00**
+* *5 juli*, **Sommarmusik i Vilske Kleva kyrka, kl. 18.00**
+* *7 juli*, **Sommarmusik i Vessige eller Okome kyrka, kl. 18.00**
+* *8 juli*, **Sommarmusik i Grästorp, kl. 19.00**
+* *9 juli*, **Lunchkonsert i Torekovs kyrka, kl. 12.00**
+* *12 juli*, **Sommarmusik i Norra Billings pasatorat, kl. 19.00**
+* *16 juli*, **Sommarmusi i St: Pauli kyrka Eskilstuna, kl. 18.00**
 
 # Spelningar 2025
 * *30 april*, **Musik vid Valborg, [Fryele kyrka](https://maps.app.goo.gl/KTtytmoXQFw1pnDA9 "Karta till spelningen"), kl. 19.00**
