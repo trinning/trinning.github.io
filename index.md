@@ -15,7 +15,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt) 
 * *28 mars*, **Musik med Trinning, Christinae kyrka Alingsås, kl. 17.00**
 * *19 juni*, **Midsommarmusik, Humla Kyrka, kl. 22.30**
-* *21 juni*, **Sommarmusik, Ystad församling, kl. 18.00**
+* *21 juni*, **Sommarmusik, Ystads pastorat, kl. 18.00**
 * *5 juli*, **Sommarmusik, Vilske Kleva kyrka, kl. 18.00**
 * *7 juli*, **Sommarmusik, Vessige eller Okome kyrka, kl. 18.00**
 * *8 juli*, **Sommarmusik, Grästorps pastorat, kl. 19.00**
