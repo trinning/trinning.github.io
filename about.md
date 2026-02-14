@@ -30,7 +30,7 @@ Vi spelar på fest, bröllop, musikgudstjänster, begravning, eller andra arrang
     </tr>
     <tr>
       <td>Fiol, sång och gitarr. Riksspelman med examen från Malmö musikhögskola</td>
-      <td>Fiol och sång. Zorns spelmansmärke i brons</td>
+      <td>Fiol och sång.  Zorns spelmansmärke i brons</td>
       <td>Fiol, kontrabas och sång. Riksspelman med musikstudier i Malung</td>
     </tr>
   </tbody>
