@@ -13,7 +13,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 # Spelningar 2026	
 Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt) 
-* *28 mars*, **Musik med Trinning, Christinae kyrka i Alingsås, kl. 17.00**
+* *28 mars*, **Musik med Trinning, Christinae kyrka, Alingsås, kl. 17.00**
 * *19 juni*, **Midsommarmusik, Humla Kyrka, kl. 22.30**
 * *21 juni*, **Sommarmusik, Ystad församling, kl. 18.00**
 * *5 juli*, **Sommarmusik, Vilske Kleva kyrka, kl. 18.00**
