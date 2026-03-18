@@ -21,7 +21,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *1 juli*, **Sommarmusi, Seglora kyrka, kl. 18.30**
 * *5 juli*, **Sommarmusik, Vilske Kleva kyrka, kl. 18.00**
 * *7 juli*, **Sommarmusik, Vessige eller Okome kyrka, kl. 18.00**
-* *8 juli*, **Sommarmusik, Ev.Tengene kyrka, kl. 19.00**
+* *8 juli*, **Sommarmusik, Ev. Tengene kyrka, kl. 19.00**
 * *9 juli*, **Lunchkonsert, Torekovs kyrka, kl. 12.00**
 * *11 juli*, **Musikgudstjänst, Myresjö gamla kyrka, kl. 18.00**
 * *12 juli*, **Sommarmusik, Norra Billings pastorat, kl. 19.00**
