@@ -16,6 +16,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *28 mars*, **Musik med Trinning, Christinae kyrka Alingsås, kl. 17.00**
 * *30 april*, **Valborgsmusik med Trinning, Äspereds kyrka, kl. 18.30**
 * *17 juni*, **Sommarmusik, Byarums kyrka, kl. 19.00**
+* *18 juni*, **Sommarmusik, Stora Mellby kyrka, kl.20.00**
 * *19 juni*, **Midsommarmusik, Humla Kyrka, kl. 22.30**
 * *21 juni*, **Sommarmusik, Sövestads kyrka, kl. 18.00**
 * *1 juli*, **Sommarmusi, Seglora kyrka, kl. 18.30**
