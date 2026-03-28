@@ -62,10 +62,11 @@
   function handleFormSubmit(event) {  // handles form submit without any jquery
     event.preventDefault();           // we are submitting via xhr below
     var form = event.target;
+    var honeypot = form.querySelector('[name="honungsgryta"]');
     var data = getFormData(form);         // get the values submitted in the form
 
     /* OPTION: Remove this comment to enable SPAM prevention, see README.md */
-    if (validateHuman(data.honungsgryta)) {  //if form is filled, form will not be submitted
+    if (validateHuman(honeypot && honeypot.value)) {  //if form is filled, form will not be submitted
       return false;
     }
 
@@ -77,24 +78,34 @@
         return false;
       }
     } else {
+      var validEmailMessage = form.querySelector(".email-invalid");
+      if (validEmailMessage) {
+        validEmailMessage.style.display = "none";
+      }
       disableAllButtons(form);
       var url = form.action;
       var xhr = new XMLHttpRequest();
       xhr.open('POST', url);
-      // xhr.withCredentials = true;
       xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
       xhr.onreadystatechange = function() {
+          if (xhr.readyState !== 4) {
+            return;
+          }
+
           console.log(xhr.status, xhr.statusText);
           console.log(xhr.responseText);
-          var formElements = form.querySelector(".form-elements")
-          if (formElements) {
-            formElements.style.display = "none"; // hide form
+
+          if (xhr.status >= 200 && xhr.status < 300) {
+            showSubmissionState(form, ".thankyou_message");
+            return;
           }
-          var thankYouMessage = form.querySelector(".thankyou_message");
-          if (thankYouMessage) {
-            thankYouMessage.style.display = "block";
-          }
-          return;
+
+          enableAllButtons(form);
+          showSubmissionState(form, ".error_message");
+      };
+      xhr.onerror = function() {
+        enableAllButtons(form);
+        showSubmissionState(form, ".error_message");
       };
       // url encode form data for sending as post data
       var encoded = Object.keys(data).map(function(k) {
@@ -118,6 +129,30 @@
     var buttons = form.querySelectorAll("button");
     for (var i = 0; i < buttons.length; i++) {
       buttons[i].disabled = true;
+    }
+  }
+
+  function enableAllButtons(form) {
+    var buttons = form.querySelectorAll("button");
+    for (var i = 0; i < buttons.length; i++) {
+      buttons[i].disabled = false;
+    }
+  }
+
+  function showSubmissionState(form, selector) {
+    var formElements = form.querySelector(".form-elements");
+    if (formElements) {
+      formElements.style.display = "none";
+    }
+
+    var thankYouMessage = form.querySelector(".thankyou_message");
+    if (thankYouMessage) {
+      thankYouMessage.style.display = selector === ".thankyou_message" ? "block" : "none";
+    }
+
+    var errorMessage = form.querySelector(".error_message");
+    if (errorMessage) {
+      errorMessage.style.display = selector === ".error_message" ? "block" : "none";
     }
   }
 })();

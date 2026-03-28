@@ -1,0 +1,41 @@
+<form
+  class="gform pure-form pure-form-aligned"
+  method="POST"
+  data-email="example@email.net"
+  action="https://script.google.com/macros/s/AKfycbze3FOPEbjqNTEIsx8T4GiEZ2YpF6ygBbmeM_qo/exec"
+>
+  <label class="sr-only" for="honungsgryta">Leave this field blank</label>
+  <input id="honungsgryta" type="text" name="honungsgryta" value="">
+
+  <div class="form-elements">
+    <fieldset class="pure-group">
+      <label for="name">Namn:</label>
+      <input type="text" class="pure-input-1" id="name" name="name" placeholder="Namn" autocomplete="off" required>
+    </fieldset>
+
+    <fieldset class="pure-group">
+      <label for="email">E-postadress:</label>
+      <input type="email" class="pure-input-1" id="email" name="email" placeholder="E-post" autocomplete="off" required>
+      <span class="email-invalid" style="display:none">Ange en giltig e-postadress.</span>
+    </fieldset>
+
+    <fieldset class="pure-group">
+      <label for="message">Meddelande:</label>
+      <textarea class="pure-input-1" id="message" name="message" rows="15" placeholder="Meddelande" required></textarea>
+    </fieldset>
+
+    <fieldset class="pure-group">
+      <button type="submit" class="pure-button pure-input-1 pure-button-primary">Skicka meddelande</button>
+    </fieldset>
+  </div>
+
+  <div class="thankyou_message" style="display:none;">
+    <h3>Tack för ditt meddelande.</h3>
+    <p><em>Vi återkommer så snart vi kan.</em></p>
+  </div>
+
+  <div class="error_message" style="display:none;">
+    <h3>Det gick inte att skicka formuläret.</h3>
+    <p><em>Prova igen om en stund eller kontakta oss via Facebook.</em></p>
+  </div>
+</form>

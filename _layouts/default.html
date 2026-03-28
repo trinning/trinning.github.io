@@ -9,6 +9,8 @@
     <div class="content container">
       {{ content }}
     </div>
-    {% include analytics.html %}
+    {% if page.form_page %}
+    <script defer data-cfasync="false" src="{{ '/assets/js/form-submission-handler.js' | relative_url }}"></script>
+    {% endif %}
   </body>
 </html>
