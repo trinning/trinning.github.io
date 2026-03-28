@@ -1,33 +1,23 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            Trinning
-tagline:          'Alla goda ting är Trinning'
-description:      'Folkmusik fiol kontrabas och sång'
-url:              https://trinning.se
-url:              http://trinning.github.io
-#enforce_ssl:      trinning.se
-baseurl:          //trinning.se
+title: Trinning
+tagline: "Alla goda ting är Trinning"
+description: "Folkmusik fiol kontrabas och sång"
+url: "https://trinning.se"
+baseurl: ""
 
 author:
-  name:           'Jonas Björkman'
-  url:            https://cloud8.se
-
-# paginate:         5
+  name: "Jonas Björkman"
+  url: "https://cloud8.se"
 
 # Custom vars
-version:          2.1.0
-# gems: [jekyll-paginate]
-gems:
-  - jekyll-seo-tag
-
-#github:
-#  repo:           https://github.com/poole/hyde
+version: 2.1.0
 
 social:
   name: Trinning folkmusik
@@ -35,6 +25,3 @@ social:
     - https://www.facebook.com/Vittra-543481875853831/
     - https://soundcloud.com/vittra-3
     - https://www.youtube.com/channel/UCRLXiWxslt-oNdVMGvOWzRw
-
-# Google Analytics
-google_analytics: UA-110552743-1

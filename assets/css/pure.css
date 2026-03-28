@@ -11,7 +11,26 @@
     align-items: flex-end;
 }
 
-#honungsgryta {
+.gform {
+  margin-top: 1.5rem;
+}
+
+.gform .pure-group {
+  margin-bottom: 1rem;
+}
+
+.gform .thankyou_message,
+.gform .error_message {
+  margin-top: 1.5rem;
+}
+
+.gform .error_message {
+  color: #8b1e1e;
+}
+
+#honungsgryta,
+#honungsgryta-order,
+input[name="honungsgryta"] {
   display: none; /*makes the field not visible to humans*/
 }
 
@@ -25,4 +44,3 @@
   clip: rect(0,0,0,0);
   border: 0;
 }
-

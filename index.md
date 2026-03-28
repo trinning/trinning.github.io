@@ -6,13 +6,13 @@ published: true
 <div>
   <h1 class="page-title">{{ page.title }}</h1>
 </div>
-![Trinning](/assets/trinning_profile.jpg)
+![Trinning]({{ '/assets/trinning_profile.jpg' | relative_url }})
 
 Trinning spelar och sjunger svensk folkmusik. Mycket hämtar vi från den västgötska folkmusiktraditionen, en del är egenskrivet material, men det kan också slinka 
 in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från den svenska visskatten. Allt är arrangerat av oss själva och framförs trestämmigt, med omväxlande instrumentala, vokala och blandade arrangemang.
 
 # Spelningar 2026	
-Är du intresserad av att vi kommer och spelar så [kontakta oss](/kontakt) 
+Är du intresserad av att vi kommer och spelar så [kontakta oss]({{ '/kontakt/' | relative_url }}) 
 * *28 mars*, **Musik med Trinning, Christinae kyrka Alingsås, kl. 17.00**
 * *30 april*, **Valborgsmusik med Trinning, Äspereds kyrka, kl. 18.30**
 * *17 juni*, **Sommarmusik, Byarums kyrka, kl. 19.00**
@@ -46,6 +46,6 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *27 augusti*, **Sommarmusik, [Vesene kyrka](https://maps.app.goo.gl/XT2cam12s5ozSQSCA "Karta till spelningen"), kl. 19.00**
 
 # Presenttips! Trinnings skiva
-Trinning släppte sin första skiva, STEG den 3 juni 2018. Den är inspelad i kaffestugan på Alphems arboretum i Floby i Västergötland och innehåller fjorton somriga spår. Traditionella låtar blandas med egna kompositioner, allt arrangerat av Trinning. Vill du köpa skivan till det förmånliga priset 100 kr [fyll i forumuläret här](/skivor) eller kontakta oss via vår [facebook](https://www.facebook.com/trinningfolk/). 
+Trinning släppte sin första skiva, STEG den 3 juni 2018. Den är inspelad i kaffestugan på Alphems arboretum i Floby i Västergötland och innehåller fjorton somriga spår. Traditionella låtar blandas med egna kompositioner, allt arrangerat av Trinning. Vill du köpa skivan till det förmånliga priset 100 kr [fyll i forumuläret här]({{ '/skivor/' | relative_url }}) eller kontakta oss via vår [facebook](https://www.facebook.com/trinningfolk/). 
 
-![Trinnings skiva STEG]({{site.baseurl}}//assets/CD-steg.jpg)
+![Trinnings skiva STEG]({{ '/assets/CD-steg.jpg' | relative_url }})
