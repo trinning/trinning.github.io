@@ -13,15 +13,15 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 # Spelningar 2026	
 Är du intresserad av att vi kommer och spelar så [kontakta oss]({{ '/kontakt/' | relative_url }}) 
-* *28 mars*, **Musik med Trinning, Christinae kyrka Alingsås, kl. 17.00**
+* *28 mars*, **Konsert med Trinning, Christinae kyrka Alingsås, kl. 17.00**
 * *30 april*, **Valborgsmusik med Trinning, Äspereds kyrka, kl. 18.30**
 * *17 juni*, **Sommarmusik, Byarums kyrka, kl. 19.00**
 * *18 juni*, **Sommarmusik, Stora Mellby kyrka, kl.20.00**
 * *19 juni*, **Midsommarmusik, Humla Kyrka, kl. 22.30**
 * *21 juni*, **Sommarmusik, Sövestads kyrka, kl. 18.00**
-* *1 juli*, **Sommarmusi, Seglora kyrka, kl. 18.30**
+* *1 juli*, **Sommarmusik, Seglora kyrka, kl. 18.30**
 * *5 juli*, **Sommarmusik, Vilske Kleva kyrka, kl. 18.00**
-* *7 juli*, **Sommarmusik, Vessige eller Okome kyrka, kl. 18.00**
+* *7 juli*, **Sommarmusik, Svartrå kyrka, kl. 18.00**
 * *8 juli*, **Sommarmusik, Ev. Tengene kyrka, kl. 19.00**
 * *9 juli*, **Lunchkonsert, Torekovs kyrka, kl. 12.00**
 * *11 juli*, **Musikgudstjänst, Myresjö gamla kyrka, kl. 18.00**
