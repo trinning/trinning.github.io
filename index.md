@@ -13,21 +13,21 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 
 # Spelningar 2026	
 Är du intresserad av att vi kommer och spelar så [kontakta oss]({{ '/kontakt/' | relative_url }}) 
-* *28 mars*, **Konsert med Trinning, Christinae kyrka Alingsås, kl. 17.00**
-* *30 april*, **Valborgsmusik med Trinning, Äspereds kyrka, kl. 18.30**
-* *17 juni*, **Sommarmusik, Byarums kyrka, kl. 19.00**
-* *18 juni*, **Sommarmusik, Stora Mellby kyrka, kl.20.00**
-* *19 juni*, **Midsommarmusik, Humla Kyrka, kl. 22.30**
-* *21 juni*, **Sommarmusik, Sövestads kyrka, kl. 18.00**
-* *1 juli*, **Sommarmusik, Seglora kyrka, kl. 18.30**
-* *5 juli*, **Sommarmusik, Vilske Kleva kyrka, kl. 18.00**
-* *7 juli*, **Sommarmusik, Svartrå kyrka, kl. 18.00**
+* *28 mars*, **Konsert med Trinning, [Christinae kyrka Alingsås](https://maps.app.goo.gl/jtt1ZtTrV1krAVhG6 "Karta till spelningen"), , kl. 17.00**
+* *30 april*, **Valborgsmusik med Trinning, [Äspereds kyrka](https://maps.app.goo.gl/xwMU7xb7mkiFkrDXA "Karta till spelningen"), kl. 18.30**
+* *17 juni*, **Sommarmusik, [Byarums kyrka](https://maps.app.goo.gl/KjXnnfnZDnGJ4zwc6 "Karta till spelningen"), kl. 19.00**
+* *18 juni*, **Sommarmusik, [Stora Mellby kyrka](https://maps.app.goo.gl/RKkV4sK1HFKyCaLQ6 "Karta till spelningen"), kl.20.00**
+* *19 juni*, **Midsommarmusik, [Humla Kyrka](https://maps.app.goo.gl/iWnR37oWds3kfNP58 "Karta till spelningen"), kl. 22.30**
+* *21 juni*, **Sommarmusik, [Sövestads kyrka](https://maps.app.goo.gl/iYeKNR4Jm2HD6DEN7 "Karta till spelningen"), kl. 18.00**
+* *1 juli*, **Sommarmusik, [Seglora kyrka](https://maps.app.goo.gl/DCPKzvjP63r9oodS9 "Karta till spelningen"), kl. 18.30**
+* *5 juli*, **Sommarmusik, [Vilske Kleva kyrka](https://maps.app.goo.gl/YK4S61GTvze5eKxd6 "Karta till spelningen"), kl. 18.00**
+* *7 juli*, **Sommarmusik, [Svartrå kyrka](https://maps.app.goo.gl/YqNNchh3Z8DuwAwJ9 "Karta till spelningen"), kl. 18.00**
 * *8 juli*, **Sommarmusik, Ev. Tengene kyrka, kl. 19.00**
-* *9 juli*, **Lunchkonsert, Torekovs kyrka, kl. 12.00**
-* *11 juli*, **Musikgudstjänst, Myresjö gamla kyrka, kl. 18.00**
+* *9 juli*, **Lunchkonsert, [Torekovs kyrka](https://maps.app.goo.gl/vKLedrrcgiyftSxV9 "Karta till spelningen"), kl. 12.00**
+* *11 juli*, **Musikgudstjänst, [Myresjö gamla kyrka](https://maps.app.goo.gl/yrVqNeAc1J9FSfLJ9 "Karta till spelningen"), kl. 18.00**
 * *12 juli*, **Sommarmusik, Norra Billings pastorat, kl. 19.00**
-* *2 augusti*, **Sommarmusik, Sperlingholms kyrka, kl. 18.00**
-* *16 augusti*, **Sommarmusik, St: Pauli kyrka Eskilstuna, kl. 18.00**
+* *2 augusti*, **Sommarmusik, [Sperlingholms kyrka](https://maps.app.goo.gl/2YQYjfvsCHVs6QPr9 "Karta till spelningen"), kl. 18.00**
+* *16 augusti*, **Sommarmusik, [St: Pauli kyrka Eskilstuna](https://maps.app.goo.gl/bvqFPaNsdV2MQ7Lm7 "Karta till spelningen"), kl. 18.00**
 
 # Spelningar 2025
 * *30 april*, **Musik vid Valborg, [Fryele kyrka](https://maps.app.goo.gl/KTtytmoXQFw1pnDA9 "Karta till spelningen"), kl. 19.00**
