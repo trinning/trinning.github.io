@@ -22,7 +22,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *1 juli*, **Sommarmusik, [Seglora kyrka](https://maps.app.goo.gl/DCPKzvjP63r9oodS9 "Karta till spelningen"), kl. 18.30**
 * *5 juli*, **Sommarmusik, [Vilske Kleva kyrka](https://maps.app.goo.gl/YK4S61GTvze5eKxd6 "Karta till spelningen"), kl. 18.00**
 * *7 juli*, **Sommarmusik, [Svartrå kyrka](https://maps.app.goo.gl/YqNNchh3Z8DuwAwJ9 "Karta till spelningen"), kl. 18.00**
-* *8 juli*, **Sommarmusik, Ev. Tengene kyrka, kl. 19.00**
+* *8 juli*, **Sommarmusik, [Flakebergs kyrka](https://maps.app.goo.gl/yFuqBfXjpEbj1yvY6 "Karta till spelningen"), kl. 19.00**
 * *9 juli*, **Lunchkonsert, [Torekovs kyrka](https://maps.app.goo.gl/vKLedrrcgiyftSxV9 "Karta till spelningen"), kl. 12.00**
 * *11 juli*, **Musikgudstjänst, [Myresjö gamla kyrka](https://maps.app.goo.gl/yrVqNeAc1J9FSfLJ9 "Karta till spelningen"), kl. 18.00**
 * *12 juli*, **Sommarmusik, Norra Billings pastorat, kl. 19.00**
