@@ -15,7 +15,8 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 Är du intresserad av att vi kommer och spelar så [kontakta oss]({{ '/kontakt/' | relative_url }}) 
 * *28 mars*, **Konsert med Trinning, [Christinae kyrka Alingsås](https://maps.app.goo.gl/jtt1ZtTrV1krAVhG6 "Karta till spelningen"), , kl. 17.00**
 * *30 april*, **Valborgsmusik med Trinning, [Äspereds kyrka](https://maps.app.goo.gl/xwMU7xb7mkiFkrDXA "Karta till spelningen"), kl. 18.30**
-* *17 juni*, **Sommarmusik, [Byarums kyrka](https://maps.app.goo.gl/KjXnnfnZDnGJ4zwc6 "Karta till spelningen"), kl. 19.00**
+* *17 juni*, **Sommarmusik, [Byarums kyrka](https://maps.app.goo.gl/KjXnnfnZDnGJ4zwc6 "Karta till spelningen"), kl. 19.00***
+* *14 juni*, **Sommarmusik,[Mellby kyrka](https://maps.app.goo.gl/b3bH2WixPCTXEEdB8 "Karta till spelningen"), kl.18.00**
 * *18 juni*, **Sommarmusik, [Stora Mellby kyrka](https://maps.app.goo.gl/RKkV4sK1HFKyCaLQ6 "Karta till spelningen"), kl.20.00**
 * *19 juni*, **Midsommarmusik, [Humla Kyrka](https://maps.app.goo.gl/iWnR37oWds3kfNP58 "Karta till spelningen"), kl. 22.30**
 * *21 juni*, **Sommarmusik, [Sövestads kyrka](https://maps.app.goo.gl/iYeKNR4Jm2HD6DEN7 "Karta till spelningen"), kl. 18.00**
