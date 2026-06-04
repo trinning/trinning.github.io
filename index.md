@@ -26,7 +26,7 @@ in lite norskt, amerikanskt, låtar från de brittiska öarna och visor från de
 * *8 juli*, **Sommarmusik, [Flakebergs kyrka](https://maps.app.goo.gl/yFuqBfXjpEbj1yvY6 "Karta till spelningen"), kl. 19.00**
 * *9 juli*, **Lunchkonsert, [Torekovs kyrka](https://maps.app.goo.gl/vKLedrrcgiyftSxV9 "Karta till spelningen"), kl. 12.00**
 * *11 juli*, **Musikgudstjänst, [Myresjö gamla kyrka](https://maps.app.goo.gl/yrVqNeAc1J9FSfLJ9 "Karta till spelningen"), kl. 18.00**
-* *12 juli*, **Sommarmusik, Norra Billings pastorat, kl. 19.00**
+* *12 juli*, **Sommarmusik, [Frösve kyrka](https://maps.app.goo.gl/heCqMUyVz3Cyn1xu8 "Karta till spelningen"), kl. 19.00**
 * *2 augusti*, **Sommarmusik, [Sperlingholms kyrka](https://maps.app.goo.gl/2YQYjfvsCHVs6QPr9 "Karta till spelningen"), kl. 18.00**
 * *16 augusti*, **Sommarmusik, [St: Pauli kyrka Eskilstuna](https://maps.app.goo.gl/bvqFPaNsdV2MQ7Lm7 "Karta till spelningen"), kl. 18.00**
 
